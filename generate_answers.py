@@ -10,7 +10,7 @@ with open(questions_file, "r") as file:
 questions = [q.strip() for q in questions]
 
 # Load the context text
-context_file = "ingest.txt"  # Path to the file containing the context
+context_file = "pairs.txt"  # Path to the file containing the context
 with open(context_file, "r") as file:
     context = file.read()
 
