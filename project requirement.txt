@@ -1,0 +1,16 @@
+Requirements:
+
+1. Develop an app using an open source pre-built LLM:
+https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+
+2.
+- Read a list of text files and ingest the data
+- Generate a list of questions from the text files and save it to questions.txt
+- Answer the questions (from questions.txt) using the LLM
+- evaluate models to find the best fit
+
+#example command line interface:
+
+ingest.py list_of_txt_files.txt
+generate_questions.py <parameters> | to spit out a list of questions. example parameter: question_count = 100
+generate_answers.py to answer the questions generated in generate_questions.py
