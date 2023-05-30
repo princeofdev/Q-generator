@@ -65,9 +65,9 @@ class QuestionGenerator:
         )
         scores = self.qa_evaluator.get_scores(encoded_qa_pairs)
 
-        if num_questions:
+        if question_count:
             qa_list = self._get_ranked_qa_pairs(
-                generated_questions, qg_answers, scores, num_questions
+                generated_questions, qg_answers, scores, question_count
             )
         else:
             qa_list = self._get_ranked_qa_pairs(
