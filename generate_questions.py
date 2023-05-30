@@ -49,6 +49,8 @@ class QuestionGenerator:
         qg_inputs, qg_answers = self.generate_qg_inputs(content, "sentences")
         generated_questions = self.generate_questions_from_inputs(qg_inputs)
 
+        print("Validating...\n")
+
         # Validate
         message = "{} questions doesn't match {} answers".format(
             len(generated_questions), len(qg_answers)
@@ -72,6 +74,8 @@ class QuestionGenerator:
                 generated_questions, qg_answers, scores
             )
 
+        print("Progress...\n")
+
         # else:
         #     print("Skipping evaluation step.\n")
         #     qa_list = self._get_all_qa_pairs(generated_questions, qg_answers)
@@ -79,8 +83,10 @@ class QuestionGenerator:
         # Save the questions to the file
         file_output_path = os.path.join(root_directory, 'questions.txt')  # Path to the output file
 
-        with open(file_path, 'w') as file:
-            file.write(generated_questions)
+        questions = [item["questions"] for item in qa_list]
+        with open(file_output_path, 'w') as file:
+            for question in questions:
+                file.write(question + '\n')
 
     def generate_qg_inputs(self, text: str, answer_style: str) -> Tuple[List[str], List[str]]:
 
@@ -115,6 +121,8 @@ class QuestionGenerator:
         #     inputs.extend(prepped_inputs)
         #     answers.extend(prepped_answers)
 
+        print("Returning inputs and answers...\n")
+
         return inputs, answers
 
     def generate_questions_from_inputs(self, qg_inputs: List) -> List[str]:
@@ -125,6 +133,7 @@ class QuestionGenerator:
             question = self._generate_question(qg_input)
             generated_questions.append(question)
 
+        print("Returning all questions...\n")
         return generated_questions
 
     def _split_text(self, text: str) -> List[str]:
@@ -243,12 +252,17 @@ class QuestionGenerator:
     @torch.no_grad()
     def _generate_question(self, qg_input: str) -> str:
 
+        print("Starting generation...\n")
+
         encoded_input = self._encode_qg_input(qg_input)
         output = self.qg_model.generate(input_ids=encoded_input["input_ids"], max_new_tokens=self.SEQ_LENGTH)
         question = self.qg_tokenizer.decode(
             output[0],
             skip_special_tokens=True
         )
+
+        print("Returning a question...\n")
+
         return question
 
     def _encode_qg_input(self, qg_input: str) -> torch.tensor:
