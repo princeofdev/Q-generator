@@ -93,10 +93,10 @@ class QuestionGenerator:
         pair_file_output_path = os.path.join(root_directory, 'pairs.txt')  # Path to the output file
 
         with open(pair_file_output_path, 'w') as file:
-        for item in qa_list:
-            question = item["question"]
-            answer = item["answer"]
-            file.write(f"{question}\n{answer}\n\n")
+            for item in qa_list:
+                question = item["question"]
+                answer = item["answer"]
+                file.write(f"{question}\n{answer}\n\n")
 
         print("Pair file created,\n")
 
