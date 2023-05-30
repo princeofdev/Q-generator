@@ -47,8 +47,6 @@ class QuestionGenerator:
         
         # Generate questions using the content and question_count parameter
         qg_inputs, qg_answers = self.generate_qg_inputs(content, "sentences")
-        print(f"{qg_inputs} inputs were generated.\n")
-
         generated_questions = self.generate_questions_from_inputs(qg_inputs)
 
         print("Validating...\n")
