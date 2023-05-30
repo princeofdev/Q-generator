@@ -98,7 +98,7 @@ class QuestionGenerator:
                 answer = item["answer"]
                 file.write(f"{question}\n{answer}\n\n")
 
-        print("Pair file created,\n")
+        print("Pair file created.\n")
 
     def generate_qg_inputs(self, text: str, answer_style: str) -> Tuple[List[str], List[str]]:
 
