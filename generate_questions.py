@@ -83,10 +83,22 @@ class QuestionGenerator:
         # Save the questions to the file
         file_output_path = os.path.join(root_directory, 'questions.txt')  # Path to the output file
 
-        questions = [item["questions"] for item in qa_list]
+        questions = [item["question"] for item in qa_list]
         with open(file_output_path, 'w') as file:
             for question in questions:
                 file.write(question + '\n')
+
+        print("Completed.\n")
+
+        pair_file_output_path = os.path.join(root_directory, 'pairs.txt')  # Path to the output file
+
+        with open(pair_file_output_path, 'w') as file:
+        for item in qa_list:
+            question = item["question"]
+            answer = item["answer"]
+            file.write(f"{question}\n{answer}\n\n")
+
+        print("Pair file created,\n")
 
     def generate_qg_inputs(self, text: str, answer_style: str) -> Tuple[List[str], List[str]]:
 
