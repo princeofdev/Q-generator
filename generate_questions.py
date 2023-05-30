@@ -276,19 +276,19 @@ class QuestionGenerator:
         ).to(self.device)
 
     def _get_ranked_qa_pairs(
-        self, generated_questions: List[str], qg_answers: List[str], scores, num_questions: int = 10
+        self, generated_questions: List[str], qg_answers: List[str], scores, question_count: int = 10
     ) -> List[Mapping[str, str]]:
 
-        if num_questions > len(scores):
-            num_questions = len(scores)
+        if question_count > len(scores):
+            question_count = len(scores)
             print((
-                f"\nWas only able to generate {num_questions} questions.",
+                f"\nWas only able to generate {question_count} questions.",
                 "For more questions, please input a longer text.")
             )
 
         qa_list = []
 
-        for i in range(num_questions):
+        for i in range(question_count):
             index = scores[i]
             qa = {
                 "question": generated_questions[index].split("?")[0] + "?",
