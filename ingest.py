@@ -9,7 +9,7 @@ with open(output_file_path, 'w') as output_file:
     for filename in os.listdir(data_directory):
         file_path = os.path.join(data_directory, filename)
         if os.path.isfile(file_path):  # Check if it's a file
-            with open(file_path, 'r') as file:
+            with open(file_path, 'r', encoding='utf-8') as file:
                 text = file.read()
                 output_file.write(text)
                 output_file.write('\n')  # Add a newline after each file's content
