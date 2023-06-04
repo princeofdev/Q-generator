@@ -1,0 +1,3664 @@
+Online Edition
+Learning Manual
+
+Mastering QuickBooks © Learning Manual
+Copyright
+Copyright© 2020 by David J. O’Brien and/or National Real World Training, Inc. All
+rights reserved. Screen shots© Intuit Inc. All rights reserved. This publication, or any
+part thereof, may not be reproduced or transmitted in any form or by any means,
+electronic or mechanical, including photocopying, recording, storage in an
+information retrieval system, or otherwise, without the prior written permission of
+David J. O’Brien or National Real World Training, Inc.
+
+Trademark Acknowledgements
+Intuit, QuickBooks, QuickBooks Pro, TurboTax, ProSeries, Lacerte, and QuickZoom
+are registered trademarks of Intuit Inc. Windows, Microsoft, Excel, and Outlook are
+registered trademarks of Microsoft Corporation. Other brand names and product
+names are trademarks or registered trademarks of their respective holders.
+
+Disclaimer
+These training materials are provided without any warranty whatsoever, including,
+but not limited to, the implied warranties of merchantability or fitness for a particular
+purpose. All names of persons or companies in this manual are fictitious unless
+otherwise noted.
+Real World Training
+5501 LBJ Freeway, Suite 180
+Dallas, TX 75240-5225
+Phone (214) 515-0577
+Fax (214) 515-0580
+www.quickbookstraining.com
+
+Day 1 Agenda
+During webinars, all times listed below are in Central Time.
+
+Seminar Welcome ............................................................. 9:30
+Chapter 1: Quickbooks Online Setup
+Chapter 2: Getting Around
+Break
+
+................................................................... 10 minutes
+
+Chapter 3: Lists
+Chapter 4: Financial Statements
+Chapter 5: Products and Services
+Lunch Break ....................................................................1 hour
+Chapter 6: Money In I
+Chapter 7: Money In II
+Break
+
+................................................................... 10 minutes
+
+Chapter 8: Customizing QuickBooks
+Chapter 9: Saving Time
+Chapter 10: Estimates
+Chapter 11: Sales Tax
+Class Dismissed ................................................................ 5:00
+
+Day 2 Agenda
+During webinars, all times listed below are in Central Time.
+
+Seminar Welcome ............................................................. 9:30
+Chapter 12: Money Out I
+Chapter 13: Money Out II
+Break
+
+................................................................... 10 minutes
+
+Chapter 14: Online Banking
+Chapter 15: Reconciliation
+Lunch Break ....................................................................1 hour
+Chapter 16: Mobile App
+Chapter 17: Working with Reports
+Chapter 18: Accounting Tasks
+Break
+
+................................................................... 10 minutes
+
+Chapter 19: Payroll Setup
+Chapter 20 Payroll Cycle
+Chapter 21: Inventory
+Class Dismissed ................................................................ 4:50
+Q and A
+
+Day 1- Table of Contents
+
+Select the headers below to be taken to the content
+
+Chapter 1: Setup ................................................................................................ 1
+Introduction ......................................................................................................... 2
+Setting Up QuickBooks ..................................................................................... 4
+Create QuickBooks Account............................................................................. 4
+Customize/Personalize QuickBooks ................................................................ 6
+Import Data ......................................................................................................... 8
+Enter Opening Balances ................................................................................. 11
+Link Bank Accounts .......................................................................................... 12
+Test Drive QuickBooks Online ....................................................................... 12
+Chapter 2: Getting Around ............................................................................ 13
+Dashboard ......................................................................................................... 14
+Moving Around in QuickBooks ...................................................................... 15
+What You See on Screen ................................................................................. 18
+Chapter 3: Lists ................................................................................................. 19
+List Types ........................................................................................................... 20
+Names Lists ....................................................................................................... 20
+Work With Lists ................................................................................................. 21
+Chapter 4: Financial Statements ................................................................... 29
+Financial Statements ........................................................................................ 30
+Account Category Types ................................................................................. 33
+Add Accounts/Subaccounts ........................................................................... 34
+Collapse Financial Statements ....................................................................... 36
+Journal Entries .................................................................................................. 37
+Cash vs Accrual ................................................................................................. 38
+Chapter 5: Products and Services ................................................................. 39
+Products and Services Settings ...................................................................... 40
+Understanding Products and Services .......................................................... 41
+Add Products and Services ............................................................................. 42
+Chapter 6: Money In-I ..................................................................................... 47
+Customers ......................................................................................................... 48
+Methods to Record Sales ................................................................................ 51
+Method 1-Invoice ............................................................................................. 51
+What is Accounts Receivable? ........................................................................ 52
+Undeposited Funds ........................................................................................ 54
+
+Chapter 7: Money In-II .................................................................................... 55
+Method 2-Sales Receipts ................................................................................. 56
+Method 3-Make Deposits ................................................................................ 57
+Method 4-Import from Other Program ......................................................... 58
+Refund Receipt ................................................................................................. 59
+Credit Memos ................................................................................................... 60
+Customer Statements ...................................................................................... 62
+Reports ............................................................................................................... 64
+Chapter 8: Customize QuickBooks ............................................................... 65
+Company Settings ............................................................................................ 66
+Customer Label ............................................................................................... 66
+Customize Forms .............................................................................................. 67
+Customize Email Template ............................................................................ 70
+Chapter 9: Save Time ...................................................................................... 73
+Find Transactions ............................................................................................. 74
+Recurring Transactions .................................................................................... 77
+Shortcuts ............................................................................................................ 78
+QuickBooks Online Payments ........................................................................ 79
+Chapter 10: Estimates .................................................................................... 81
+Invoice Based on Estimate .............................................................................. 83
+Progress Invoicing ........................................................................................... 84
+Chapter 11: Sales Tax ..................................................................................... 85
+Set Up Sales Tax ............................................................................................... 85
+Nontaxable Customer Setup .......................................................................... 87
+Invoice Sales Tax............................................................................................... 89
+Pay Sales Taxes ................................................................................................. 90
+
+Day 2- Table of Contents
+
+Select the headers below to be taken to the content.
+
+Chapter 12: Money Out I ................................................................................ 91
+Vendors .............................................................................................................. 92
+Method 1- Track Accounts Payable ............................................................... 94
+Advantages of Bills .......................................................................................... 95
+Method 2- No Accounts Payable .................................................................. 97
+Record a Check ................................................................................................ 97
+Enter Expenses ................................................................................................. 97
+Reports .............................................................................................................100
+Chapter 13: Money Out II ............................................................................ 101
+Credit Cards .................................................................................................... 102
+Vendor Credit Memos ................................................................................... 106
+Void vs. Delete Checks .................................................................................. 108
+Chapter 14: Online Banking ....................................................................... 109
+Add Bank Account ......................................................................................... 110
+Set Up Online Banking .................................................................................111
+Online Banking Center .................................................................................. 113
+Manage Downloaded Transactions ............................................................ 114
+Add Downloaded Expenses ........................................................................ 116
+Recognized Transactions ............................................................................. 117
+What Gets Downloaded ................................................................................ 118
+Manage Downloaded Deposits ................................................................... 119
+Add Split Transactions ................................................................................... 120
+Exclude Transactions ..................................................................................... 121
+Transfers ..........................................................................................................122
+Credit Card Payments .................................................................................... 123
+Personal Expenses ........................................................................................ 124
+Chapter 15: Reconcilation ........................................................................... 125
+Reconcile Bank Account ................................................................................ 126
+Reconciliation Difference ............................................................................. 128
+Reconciliation Report ....................................................................................129
+Chapter 16: Mobile App .............................................................................. 131
+Install Mobile App .......................................................................................... 132
+Mobile App Dashboard ................................................................................. 133
+Moving Around in QuickBooks Mobile ....................................................... 134
+View Customer/Vendor Information ........................................................... 137
+Online Banking in App .................................................................................. 138
+Run Reports ..................................................................................................... 139
+Record Transactions....................................................................................... 142
+
+Chapter 17: Working with Reports ............................................................ 145
+Run Reports ..................................................................................................... 146
+Types of Reports ............................................................................................. 147
+Date Range ..................................................................................................... 150
+Modify Reports-General ................................................................................ 150
+Modify Reports-Numbers .............................................................................. 151
+Modify Reports-Rows/Columns .................................................................... 153
+Modify Reports-Filters.................................................................................... 156
+Modify Reports-Header/Footer .................................................................... 158
+Save Report Customizations ......................................................................... 159
+Email & Schedule Reports ............................................................................. 160
+Chapter 18: Accounting Tasks .................................................................... 163
+Account Numbers .......................................................................................... 164
+Set Closing Date ............................................................................................. 165
+Manage Users ................................................................................................. 166
+Audit Log .........................................................................................................168
+Chapter 19: Payroll Setup ........................................................................... 169
+Enable Payroll ................................................................................................. 170
+Start Payroll Setup .......................................................................................... 171
+Enter Company Information ......................................................................... 173
+Employee W-4 Information ........................................................................... 176
+Employee Payroll Schedules ........................................................................ 177
+Employee Pay Types ..................................................................................... 177
+Employee Deductions/Contributions ......................................................... 178
+How to Pay Employees ................................................................................. 178
+Employee Setup Complete ........................................................................... 179
+Set Up Payroll Taxes ....................................................................................... 180
+Payroll Tax-Federal Tax Details .................................................................... 181
+Payroll Tax- State Tax Details ........................................................................ 181
+Direct Deposit Setup ..................................................................................... 182
+Add Employees After Setup ......................................................................... 184
+Chapter 20: Payroll Cycle ............................................................................ 185
+Pay Employees ................................................................................................ 186
+View Tax/Payments .......................................................................................188
+Pay Non-Tax Liabilities .................................................................................. 191
+Chart of Accounts: Payroll Liabilities ..........................................................191
+Pay Deductions .............................................................................................. 192
+Chapter 21: Inventory .................................................................................. 193
+Track Inventory ............................................................................................... 194
+Inventory Reports ........................................................................................... 198
+Adjust Inventory.............................................................................................. 199
+
+Chapter 1
+
+QuickBooks
+Online Setup
+
+Page 1
+
+Introduction
+Welcome to Day 1 of the Mastering QuickBooks seminar. Using QuickBooks software
+effectively for your business is the focus of this seminar.
+
+Goals/Learning Objectives
+•
+•
+•
+
+Learn the features and capabilities of QuickBooks.
+Learn the most common problems (and their fixes!) in each area of QuickBooks.
+Discover the tricks and tips of QuickBooks to help you use QuickBooks to its
+fullest potential.
+
+About Intuit
+Intuit Inc. is a leading provider of business and financial management solutions for
+small businesses, consumers and accounting professionals. Its flagship products and
+services, including QuickBooks®, Quicken® and TurboTax® software, simplify small
+business management and payroll processing, personal finance, and tax preparation
+and filing. ProSeries® and Lacerte® are Intuit's leading tax preparation software suites
+for professional accountants. For more information, visit www.intuit.com on the
+internet.
+
+About Real World Training
+Real World Training was founded in 1992 by David J. O'Brien, CPA. Initially the
+company provided one-on-one accounting software training to small businesses. In
+1994, the company began focusing exclusively on QuickBooks and began offering
+training courses on the program. In 1996, Real World Training developed the
+Mastering QuickBooks seminar. Since that time, Real World Training has taught over
+1,500,000 students how to master QuickBooks for their business. For more
+information on Real World Training or to see seminar schedules online, visit
+www.quickbookstraining.com on the internet.
+
+Page 2
+
+QuickBooks Online Setup - Day 1: Chapter 1
+
+QuickBooks Online
+If you use QuickBooks Online, your screen will look like this:
+
+Desktop Editions (Pro, Premier, Enterprise Solutions)
+If you use one of the desktop editions of QuickBooks, your screen will look like this:
+
+Mastering QuickBooks Online Level 1
+
+Page 3
+
+Setting Up QuickBooks
+There are 5 steps to setting up and getting started using QuickBooks Online.
+1. Create QuickBooks Account
+This is how you create your company in QuickBooks.
+2. Customize/Personalize QuickBooks
+Customize your settings and invoices to make QuickBooks work best for you. Also,
+invite other people to your company file and set up their permissions.
+3. Import Lists or QuickBooks Desktop Data
+If you are coming to QuickBooks Online from QuickBooks Pro or Premier, you can
+import your company file to your QuickBooks Online account and your transactions,
+lists, and opening balances will come over during that process. If you are coming to
+QuickBooks Online from another accounting program that is not QuickBooks Pro or
+Premier, you can import your lists (customers, vendors, chart of accounts, products
+and services) using CSV or Excel files.
+4. Enter Opening Balances
+Entering account balances is necessary to get complete and accurate financial
+statements. Opening balances become the “starting point” for your business because
+they catch QuickBooks up to how much you had in a bank account, or owed on a
+credit card, as of a specific date that you choose. Most businesses choose the
+beginning of a fiscal year as the starting point for their QuickBooks data, so the
+balance of an account on that date is used to set up its opening balance. You can
+find that number on your bank and credit card statements.
+5. Link Your Bank Account
+This helps you add and categorize bank transactions going forward. It also makes
+reconciliations significantly easier, which you’ll learn about later in the training.
+
+Step 1: Create QuickBooks Account
+Getting started with QuickBooks Online for your own business is easy. Just follow the
+steps below to start a free trial.
+
+Choose an Edition and Start a Free Trial
+There are several editions of QuickBooks. Each edition includes basic features such
+as check writing, entering sales, and additional features and capabilities to support
+your growing business. To review features and compare current online editions, visit
+https://quickbooks.intuit.com/online/compare/.
+Note: The QuickBooks Online setup steps frequently change. The screenshots you
+see in this part of our manual may not match exactly to what you see on the site.
+
+Page 4
+
+QuickBooks Online Setup - Day 1: Chapter 1
+
+Start Free Trial
+1.
+2.
+3.
+4.
+5.
+6.
+
+Open an internet browser (Intuit recommends Chrome).
+Browse to https://quickbooks.intuit.com/pricing/.
+Click Free Trial.
+Click Try it free below the edition of your choice.
+Complete the enrollment form and click Create Account.
+Make the appropriate selections in the screens displayed by QuickBooks Online.
+
+Setup
+Answer a few questions about your business to help QuickBooks set up your
+business.
+
+Mastering QuickBooks Online Level 1
+
+Page 5
+
+Step 2: Customize/Personalize QuickBooks
+During account creation you might be asked how you plan to use QuickBooks. Pages
+like these help QuickBooks customize your account to best suit your company’s
+needs. Anything you select/change can be customized later.
+
+Accountant View vs. Business View
+Based on your choice in the screen below, your QBO account will be in “Accountant
+View” or “Business View.” These different views slightly alter the names of some
+transactions, but QBO still operates in the same way, regardless of your choice. You
+can also change this choice in your company’s Advanced settings later.
+
+Page 6
+
+QuickBooks Online Setup - Day 1: Chapter 1
+
+Review/Update Company Settings
+After setup, you may want to customize your QuickBooks settings and forms to suit
+your needs. You learn about personalizing QuickBooks throughout this class.
+Click the Gear menu and select Account and Settings.
+Make the appropriate selections in the Account and Settings page.
+Click Done.
+
+Mastering QuickBooks Online Level 1
+
+Page 7
+
+Step 3: Import Data
+Import Company File from QuickBooks Pro/Premier
+If you have your accounting information in a QuickBooks Pro or Premier company file,
+you can copy the data to you QuickBooks Online account. The process takes a few
+minutes, and most of your transactions, lists, and account balances are brought over.
+
+Export Company File to QuickBooks Online
+Within QuickBooks Desktop, click the Company menu and select Export Company
+File to QuickBooks Online.
+Follow the onscreen instructions.
+
+Page 8
+
+QuickBooks Online Setup - Day 1: Chapter 1
+
+Tips for a Successful Conversion
+There are a few tasks you should complete in your desktop company file before you
+convert it to QuickBooks Online.
+
+Before you Convert to QuickBooks Online
+•
+•
+•
+
+Reconcile your Checking and Credit Card accounts
+Pay Sales and Payroll Taxes
+File Payroll quarterly forms (you’ll need to set up payroll again in QuickBooks
+Online)
+
+After you Convert
+Open your QuickBooks desktop company and QuickBooks Online company at the
+same time. Run the following reports in both and compare. The balances should
+match.
+• Profit and Loss Standard
+• Balance Sheet Standard
+• A/R Aging Summary
+• A/P Aging Summary
+
+Mastering QuickBooks Online Level 1
+
+Page 9
+
+Import Lists from CSV or Excel Files
+If you currently use QuickBooks Pro or Premier, your lists are imported during the
+conversion to QuickBooks Online. However, if you use a different accounting
+program, you can import lists with CSV or Excel files. Just export the lists you want to
+bring into QuickBooks, such as your list of customers, and use the menu below to
+bring them into QuickBooks.
+Click the Gear menu and select Import Data.
+
+Select the kind of data you want to import into QuickBooks.
+
+Page 10
+
+QuickBooks Online Setup - Day 1: Chapter 1
+
+Step 4: Enter Opening Balances
+If you currently use a desktop edition of QuickBooks, account opening balances will
+be included during the conversion to QuickBooks Online. However, if you use
+another accounting program, you will need to enter opening balances for most
+accounts on your Balance Sheet. Opening balances serve as your “starting point” for
+your accounts. They summarize how much money you had in a bank account, or
+owed on a credit card/loan, as of a specific day. Typically businesses choose the first
+day of their fiscal year as their starting point and use bank and credit card statements
+to find out what their balances were on that day.
+You have three choices when entering account opening balances:
+1. Enter an opening balance as you set up the account.
+When you set up a new account on your Chart of Accounts you can enter the opening
+balance and the account’s starting point at the bottom right of the New Account
+screen.
+2. Let the Online Banking feature enter opening balances for you.
+When you link a bank or credit card account to QBO, you’re asked how far back you
+want it to go to download transactions. This is used to automatically set your starting
+date for the account and also the opening balance.
+3. Enter a journal entry for opening balances.
+This usually requires help from an accountant. Don’t worry if you can’t do it right
+away. You can start using QuickBooks now.
+
+Enter Journal Entry for Opening Balances
+1. Click the New (+) menu and select Journal Entry.
+
+Mastering QuickBooks Online Level 1
+
+Page 11
+
+Step 5: Link Bank Accounts
+When you link your checking and credit-card accounts with QuickBooks, you choose
+how far back you want QuickBooks to look when it downloads transactions. It’s
+generally recommended to start from the beginning of your fiscal year. You can also
+tell QuickBooks what transactions to exclude if you download something you’ve
+already recorded, or notice a duplicated transaction.
+
+Link Bank Account
+Click Banking on the navigation bar.
+Click Connect account in the Bank accounts section of the page.
+Follow the onscreen instructions.
+
+Test Drive QuickBooks Online
+You can practice in QuickBooks using a sample file. Please note: The test drive will
+expire and log you out due to inactivity after about an hour and any changes or
+transactions you’ve entered will be deleted.
+
+Start Test Drive
+Open an internet browser.
+Browse to https://qbo.intuit.com/redir/testdrive. You can also do a Google
+search for “QBO Test Drive” to find the test drive page.
+Enter the provided security code or Captcha.
+Click Continue
+
+Page 12
+
+QuickBooks Online Setup - Day 1: Chapter 1
+
+Chapter 2
+
+Getting
+Around
+
+Page 13
+
+Getting Around in QuickBooks Online
+Now you learn more about the dashboard and the location of menus that let you to
+record new transactions, view historical transactions and access and edit your account
+settings. You’ll also learn what transactions are and the value of entering financial
+data online so that you can build accurate reports about your business.
+
+Dashboard
+The Dashboard provides quick information at your fingertips, including a financial
+dashboard, and bank account balances. You can enable Private Mode to hide this
+sensitive data if you’re using QuickBooks in a public place.
+
+Display the Home Page
+Click Dashboard from the left menu.
+
+Page 14
+
+Getting Around - Day 1: Chapter 2
+
+Moving Around in QuickBooks
+You access all the features of QuickBooks Online from three areas:
+Navigation bar
+New (+) menu
+Gear menu (aka, Company menu)
+
+Navigation Bar
+The Navigation Bar is the left-most menu on most pages within QuickBooks. It
+provides quick access to information about the people you do business with as well
+as a history if your business’ financial transactions.
+
+Mastering QuickBooks Online Level 1
+
+Page 15
+
+New (+) Menu
+The New (+) menu is at the top-left of the screen. It allows you to record your financial
+transactions. Note that your menu may look different depending on your settings.
+
+Accountant View:
+
+Business View:
+
+Page 16
+
+Getting Around – Day 1: Chapter 2
+
+Switch Between Views
+In this class we use the Accountant View. To stay consistent as you learn the content
+feel free to switch over to the Accountant View throughout the class.
+Select the Gear icon.
+Select Account and Settings from the My Company column.
+Select the Advanced tab.
+In the User view section, select Edit.
+Choose either Business or Accountant view from the dropdown.
+Select Save.
+
+Gear Menu (aka. Company Menu)
+The Gear menu provides access to company settings, lists, tools, and account
+management.
+
+Mastering QuickBooks Online Level 1
+
+Page 17
+
+Search/Recent Transactions Menu
+The Search/Recent Transactions menu is an easy way to search by transaction
+number, date, amount, and name. You can quickly open a recently entered
+transaction from the Recent Transactions list.
+
+What You See on a Transaction
+
+All the forms in QuickBooks look similar. This makes it even easier to get around and
+enter transactions. Just fill out the “Who?” and the “When” at the top, the “What?”
+below, and the amount or the “How Much.”
+
+Parts of a QuickBooks Transaction
+
+1.
+2.
+4.
+
+3.
+
+Who- Who are you paying or who is paying you?
+When- When the transaction happened in the real world.
+What- What are you purchasing or selling?
+How Much – The amount of money you receive or spend on a transaction.
+
+Page 18
+
+Getting Around – Day 1: Chapter 2
+
+Chapter 3
+
+Lists
+
+Page 19
+
+What are Lists?
+QuickBooks uses lists to organize information about the people and businesses you
+buy things from as well as the things you buy and sell. Lists help you save time in
+several ways:
+1. They store information about people and businesses you work with so you can
+record transactions more quickly.
+2. They help you find transactions you previously entered and also run reports to
+see how much money you’ve spent/received with a specific person or
+business.
+3. They also let you track who owes you money and who you owe money to.
+
+List types
+The user interface and functionality of lists is different depending on what type of list
+you are working with. For example, with Names lists (Customers, Vendors and
+Employees), you have a Center that helps you quickly sort and filter information. On
+Other Lists (Chart of Accounts, Terms List, Products and Services List, etc.), your
+choices for interaction are more limited but you can still add/remove columns and
+resort the list.
+
+Names Lists
+Names lists include Customers, Vendors, and Employees. You work with names lists
+often and you see them often throughout QuickBooks.
+
+Page 20
+
+Lists – Day 1: Chapter 3
+
+Who Goes on Which Names List?
+Customers - This list stores the people or businesses that pay you money for goods,
+services and donations. To invoice a company on account or to track sales/donations
+by customer, they must be entered as a customer.
+Vendors (Suppliers) - This list stores the companies and contractors you pay for
+goods or services. To track accounts payable (money you owe on open bills), issue a
+1099, or track purchases by person or business, they must be set up as a vendor.
+Employees - This list stores employees and their related payroll information. To pay
+an employee using payroll or issue a W-2 to an employee, he/she must be entered as
+an employee. Note that the Employees List is only for W-2 employees. People you
+issue a 1099 to are considered vendors/contractors.
+
+Other Lists
+Other Lists include Products and Services, the Chart of Accounts, etc. You use these
+lists often because they’re related to transactions, but you don’t need to update them
+very often.
+All Lists
+
+Mastering QuickBooks Online Level 1
+
+Page 21
+
+Work with Lists
+Add Entry Before You Need It
+1. Open the appropriate list.
+2. Click the New (List Name) button.
+3. Enter the appropriate information in the window.
+4. Click Save.
+New Names List Entry
+
+New Other List Entry
+
+Page 22
+
+Lists – Day 1: Chapter 3
+
+Add Entry as You Need It
+Open a transaction and enter appropriate information.
+Type the name of the new list entry as you want it to appear on the list.
+Select Add to add the new entry to the list.
+Select the appropriate type (if applicable) and click Save.
+
+Edit Names List Entry
+Display the appropriate list.
+Select the entry in the list to edit.
+Click the Edit button.
+Enter or change appropriate information.
+Click Save.
+
+Mastering QuickBooks Online Level 1
+
+Page 23
+
+Edit Other List Entry
+Display the appropriate list.
+Select the dropdown in the Action column beside the desired list entry.
+Click Edit.
+Enter or change appropriate information.
+Click Save.
+
+Page 24
+
+Lists – Day 1: Chapter 3
+
+List Rules
+There is no limit to the number of list entries you can have in QuickBooks.
+However, keeping your lists under 10,000 is recommended.
+Every entry in the "Display Name As” field for Customers, Vendors and Employees
+must be unique. If you want to list the same entity on multiple lists, make sure to
+give them different “Display Name As” entries.
+Once entered on a list, the name can’t be moved to another list.
+
+Delete Entry (Without Balance)
+Delete List Entry- Names List
+Display the appropriate list.
+Select the entry in the list to delete.
+Click the drop-down arrow next to the entry to delete and select Make inactive.
+Click Yes to confirm the deletion.
+
+Delete List Entry- Other List
+Display the appropriate list.
+Select the entry in the list to delete.
+Click the drop-down arrow next to the entry to delete and select Make Inactive.
+Click Yes to confirm the deletion.
+
+Mastering QuickBooks Online Level 1
+
+Page 25
+
+Delete Entry (With Balance)
+Deleting a list entry with a balance causes QuickBooks to record adjusting entries to
+zero the balance. These adjusting entries vary by what you make inactive.
+
+Delete List Entry-Names List
+Display the appropriate list.
+Select the entry in the list to delete.
+Click the Edit button.
+Click the Make inactive button.
+Click Yes to confirm and have QuickBooks make adjusting entries to zero the
+balance
+
+Delete List Entry-Other List
+Display the appropriate list.
+Click the Action drop-down menu for the appropriate entry and select Delete.
+Click Yes to confirm and have QuickBooks make adjusting entries to zero the
+balance.
+
+Page 26
+
+Lists – Day 1: Chapter 3
+
+See Deleted/Inactive Entries
+Deleted list entries are hidden from view. However, you can still see them if you want.
+
+View Inactive Entries
+Open the appropriate list.
+Click the Gear icon and select Include inactive.
+Include Inactive- Other Lists
+
+Include Inactive-Names Lists
+
+Mastering QuickBooks Online Level 1
+
+Page 27
+
+Merge Entry
+Display the appropriate list.
+Select the entry in the list to merge.
+Click the Edit button.
+Type the name of what you want to merge it with in the Display Name As field.
+Click Save.
+Click Yes to merge the list entries.
+
+Note: When merging accounts on the Chart of Account, you can only merge
+accounts that are of the same type (e.g. liability, expense).
+
+Page 28
+
+Lists - Day 1: Chapter 3
+
+Chapter 4
+
+Financial
+Statements
+
+Page 29
+
+Financial Statements
+For those of you who are from a non-accounting background, this chapter will help
+you to learn some accounting basics, which leads to understanding more about how
+QuickBooks works. You’ll discover the intention behind the Chart of Accounts and
+how it relates to two financial statements: the Balance Sheet and the Profit & Loss.
+
+Chart of Accounts
+The Chart of Accounts represents the “hub” of your accounting system. Each account
+represents something that your business owns/owes or a reason that your business
+earns/spends money. As you record transactions, you assign accounts that represent
+where the money came from/went to and why. After each transaction, account
+balances are updated on your financial statements based on the accounts and
+amounts you entered.
+For example, you used a debit card in an office supplies store and then later
+download the transaction. The first account affected by the transaction is the
+Checking account linked to your debit card. That represents where the money came
+from/went to. The second account the transaction affects is a summary of why money
+was earned/spent…in this case, office supplies. So you would probably use an
+expense account named Office Supplies so that you could track how much you’ve
+spent on office supplies over time.
+
+Page 30
+
+Financial Statements - Day 1: Chapter 4
+
+Balance Sheet
+The Balance Sheet is the financial snapshot or position of your business. If someone
+took a photograph of your business right now, it would the Balance Sheet? The
+Balance Sheet is comprised of assets, liabilities, and equity.
+Assets
+Anything owned by your business. Assets include cash/liquid assets like bank
+accounts, inventory you plan to sell to customers, fixed assets like vehicles and
+equipment, and even receivables that are owed to you by customers.
+Liabilities
+What your business owes people/companies outside of your business. Liabilities
+include credit cards, loans like mortgages and car notes, lines of credit and even
+payables that you owe on open bills from vendors.
+Equity
+What the business owes the owners of the business. Equity is used to track
+investments into the business, draws out of the business to pay the owner/partner
+and retained earnings. You might also see an account called Opening Balance
+Equity, which is a summary of what the business was worth to the owner before the
+business started using QuickBooks.
+
+Mastering QuickBooks Online Level 1
+
+Page 31
+
+Profit & Loss
+This statement is the movie of your business. It measures performance over a
+specified time period. This financial statement includes income, costs of goods sold
+and expenses.
+Income
+Income accounts track money that comes into your business through the sale of
+goods or services. They’re also used to track income generated through donations
+or pledges from donors. Examples include sales and service income.
+Cost of Goods Sold
+Cost of Goods Sold accounts track the money you spend that is directly related to a
+specific sale. This includes the cost of contractors you paid to work on a specific job,
+materials that are purchased for a specific customer/project, and even the original
+purchase price of inventory that you’ve sold. Note that if you use inventory products
+& services, QuickBooks automatically calculates the cost of goods sold for you when
+you record your sale of inventory. You learn about this in the Inventory chapter.
+Expenses
+Expense accounts track what your business spends on regular expenses like rent,
+insurance and payroll. Expenses are also often called “overhead” and don’t tend to
+increase or decrease based on the work you perform.
+
+Page 32
+
+Financial Statements - Day 1: Chapter 4
+
+Account Types
+The most important element when working with the Chart of Accounts is the Account
+Category Type. This must be correct, or your financial statements will be wrong!
+
+Account Types-Balance Sheet
+QuickBooks Type
+Bank
+Accounts Receivable
+Other Current Asset
+Fixed Asset
+Other Asset
+Accounts Payable
+Credit Card
+Other Current Liabilities
+Long-Term Liabilities
+Equity
+
+Description
+Your bank accounts
+What your customers owe
+you
+Assets likely to be turned
+into cash within 1 year
+Assets expensed over
+more than 1 year
+Assets that do not belong
+in other types
+What you owe vendors in
+open bills
+Company credit cards
+Liabilities you’ll pay off
+within 1 year
+Liabilities that take longer
+than 1 year to pay off
+Owner’s investments and
+draws out of the business
+
+Examples
+Checking and Savings
+Accounts Receivable
+Inventory and Short-term
+Investments
+Furniture & Fixtures and
+Computer Equipment
+Long-Term Investments
+Accounts Payable
+Mastercard and Visa
+Sales Tax Payable and
+Payroll Taxes
+Mortgage Payable
+Owner Contribution and
+Owners Draw
+
+Account Types-Profit & Loss
+QuickBooks Type
+Income
+Other Income
+Cost of Goods Sold
+Expense
+Other Expense
+
+Description
+Revenue generated
+through sales/donations
+Income earned outside of
+normal operations
+Cost you pay for products
+sold/services performed
+Operating expenses and
+overhead
+Non-operating expenses
+
+Mastering QuickBooks Online Level 1
+
+Examples
+Product Sales and Service
+Income
+Interest Income
+Materials and Cost of
+Sales
+Insurance and Rent
+Interest Expenses
+
+Page 33
+
+Add Accounts/Subaccounts
+When adding an account, you are required to choose an Account Type and a Detail
+Type. This Detail Type selection doesn’t affect your accounting. Just choose a Detail
+Type that best sounds like what you’re trying to track.
+
+Accounts
+Add Account
+Click Accounting on the left navigation bar.
+Select Chart of Accounts.
+Click the New button at the top right.
+Select the appropriate Account Type and Detail Type.
+Enter the appropriate information in the remaining fields.
+Click Save and Close.
+
+Page 34
+
+Financial Statements - Day 1: Chapter 4
+
+Subaccounts
+Subaccounts are used when you need to track more detail associated with an
+account. For example, you might have an account called Legal and Professional Fees,
+and subaccounts under that called Accounting, Lawyer, and Bookkeeping.
+
+Add Subaccount
+Click Accounting on the left navigation bar.
+Select Chart of Accounts.
+Click the New button at the top right.
+Select the appropriate Account Type and Detail Type.
+Enter the appropriate information in the remaining fields.
+Check the box next to Is sub-account and select the appropriate parent account.
+Click Save and Close.
+
+Convert an Account to a Subaccount
+Click Accounting on the left navigation bar.
+Select Chart of Accounts.
+Click Edit from the dropdown menu beside the account you wish to change to a
+subaccount.
+Check the box next to Is sub-account and select the appropriate parent account.
+Click Save and Close.
+
+Mastering QuickBooks Online Level 1
+
+Page 35
+
+Collapse Financial Statements
+When running financial statements with subaccounts, the collapse feature allows you
+to hide the subaccounts and only show the parent accounts.
+
+Collapse/Expand Financial Statements
+Click Reports on the navigation bar.
+Select Profit and Loss.
+Click the Collapse button to collapse the subaccounts.
+Click the Expand button to show the subaccount detail.
+
+Page 36
+
+Financial Statements - Day 1: Chapter 4
+
+Journal Entries
+Occasionally, you may need to change the balances of your accounts in the chart of
+accounts. Typically account balances should be updated with regular transactions
+and not journal entries. However, there are three occasions that might call for a
+journal entry:
+You need to record something that another transaction just can’t summarize, like
+the depreciation of an asset.
+You need to fix an error and your account gave you a journal entry to enter.
+You’re setting up a new company and need to enter many balances at once.
+
+Add Journal Entry
+Click the Global Create menu.
+Select Journal Entry.
+Enter appropriate Debit and Credit accounts and amounts.
+Click Save and Close.
+
+Journal Entry
+
+Profit & Loss Statement After Journal Entry
+
+Mastering QuickBooks Online Level 1
+
+Page 37
+
+Cash vs Accrual
+When running financial statements, choose the appropriate report basis. Accrual
+basis shows transactions in the period when the service was performed or when the
+goods were delivered, not when it was paid. Cash Basis shows transactions in the
+period when they were paid. You can also change the company setting which sets
+your report defaults.
+
+Change Report to Cash Basis
+Open the desired financial statement.
+Select Cash at the top of the report.
+Click Run report.
+
+Change Accounting Method-Company Setting
+Click the Gear menu and select Account and Settings.
+Click Advanced on the list to the left.
+Click in the Accounting section and change the Accounting Method.
+Click Save
+
+Page 38
+
+Financial Statements - Day 1: Chapter 4
+
+Chapter 5
+
+Products and
+Services
+
+Page 39
+
+Products and Services Settings
+Products and Services are the things you charge customers for, whether that happens
+to be physical goods, services performed, or even pledges and donations. Reviewing
+your products and services settings can help customize QuickBooks to suit your
+needs.
+
+Turn Off Products and Services
+It’s possible that your business doesn’t need products or services because your
+company is small enough that there is no need to separate what you do into separate
+categories. If this is the case, you can products and services off in order to remove
+certain fields on your sales forms.
+Click the Gear menu and select Account and Settings.
+Click Sales on the list to the left.
+Click in the Products and Services section.
+Make the appropriate selections.
+Click Save.
+
+Invoice WITHOUT Products and Services
+If you turn off products and services, invoices will be categorized on your Profit and
+Loss Statement as Services income.
+
+Page 40
+
+Products and Services – Day 1: Chapter 5
+
+Understanding Products and Services
+Products and Services can make using QuickBooks easier and provide additional
+information to help you run your business. They perform the following functions:
+Make it easier to fill out forms by providing default descriptions and sale prices.
+Act as pointers to the financial statements. In other words, they handle the behind
+the scenes accounting for sales and purchases, routing the correct amounts to
+your income and expense accounts.
+Can help you track the quantity of products you’ve sold, or hours of services
+you’ve charged customers for.
+Access the Products and Services List
+
+Products and Services List
+
+Mastering QuickBooks Online Level 1
+
+Page 41
+
+Products and Services on Invoice
+
+Add Products and Services
+Click the Gear menu and select Products and Services.
+Click the New button.
+Select the appropriate Type. Non-Inventory is usually something physical that you
+sell but you don’t keep track of how many of them you have on hand. Services are
+services you charge customers for.
+Enter remaining information in the Product/Service Information window.
+Click Save and close.
+
+Page 42
+
+Products and Services – Day 1: Chapter 5
+
+Elements of a Product or Service
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+The Name of the product or service.
+Enter a Description of the product or service. This will appear in the description
+field on sales forms that include this item. *
+Enter a default Sales Price. *
+Choose the account which will track the Income of this items sales.
+Select this box if you also purchase this product or service in addition to selling it.
+You’ll see additional purchasing information if you select this. *
+* These sections are optional. By entering details in this window you’ll save time in the
+sales for creation process.
+
+Mastering QuickBooks Online Level 1
+
+Page 43
+
+Quantity and Rate
+Tracking how much money you’ve made by product or service is great, but you might
+also want to know how many hours or units you sold to get to that amount of sales
+dollars.
+
+Turn on Quantity and Rate in Settings
+Click the Gear menu and select Account and Settings.
+Click Sales on the list to the left.
+Click in the Products and Services section.
+Click the box beside Track Quantity and Price/Rate.
+Click Save.
+
+Results of Using Quantity and Price/Rate
+
+Page 44
+
+Products and Services – Day 1: Chapter 5
+
+Reports
+Review the Sales by Product/Service Summary
+1. Click Reports on the navigation bar.
+2. Enter Sales by Product/Service Summary in the search field.
+3. Select the Sales by Product/Service Summary report.
+
+By turning on and using the Quantity and Price/Rate feature, you are also able to
+track that specific information now when running the Sales by Product/Service
+Summary and Detail reports.
+
+Mastering QuickBooks Online Level 1
+
+Page 45
+
+Review a Profit and Loss Statement
+1. Click Reports on the navigation bar.
+2. Select Profit and Loss.
+
+The income from your sales is reported on the Profit and Loss statement. QuickBooks
+increases the balance of the income account you assign to each product or service
+whenever you record a sale of that product or servce.
+
+Page 46
+
+Products and Services – Day 1: Chapter 5
+
+Chapter 6
+
+Money In- I
+
+Page 47
+
+Money In Part I
+Without your customers you wouldn't have a company. QuickBooks helps you track
+your customers’ information, their balances, and who has paid you. This chapter
+guides you through setting up customer information, sending and tracking invoices,
+and depositing their payments at the bank. You’ll learn about great reports that help
+you with collections and help you track who’s overdue. When your customer pays,
+QuickBooks helps you close your Invoice and record the deposit at your bank.
+
+Customers
+The Customers list stores information about your customers and makes it easy to find
+out which customers owe you money, are overdue on payments, etc.
+
+Sales Transactions
+You can also see sales transactions in the Sales/Invoicing tab.
+
+Page 48
+
+Money In- I – Day 1: Chapter 6
+
+Add Customers
+Click Invoicing or Sales on the navigation bar.
+Click Customers.
+Click New customer.
+Enter the appropriate information in the Customer Information page.
+Click Save.
+
+Customer Information
+
+Set up a Sub-Customer
+Many businesses have separate jobs with the same customer that they’d like to track
+separately for job costing. QuickBooks Online helps you do this with sub-customers.
+With sub-customers, you can see your income and expenses for each job, but still bill
+the customer for the work that’s been done. This also helps track multiple addresses.
+Create New Customer OR Edit an Existing Customer
+Select the box next to Is sub-customer
+Select the parent customer in the drop-down
+
+Billing Options
+If you choose an account in the Bill with Parent drop-down, anytime this subcustomer is used on a sales form, the parent customer will be billed.
+Payment and Billing Information
+
+Mastering QuickBooks Online Level 1
+
+Page 49
+
+Methods to Record Sales
+There are 4 ways to record sales in QuickBooks.
+Invoice - Use this method if a customer owes you money and will pay you later.
+Sales Receipt - Use this method if your customer pays you at the time of the sale.
+Deposit - Use this method to record income on a deposit, when none of the
+previous methods are used.
+Import from Other Program- Use this method if you use an integrated app to
+capture sales.
+
+Method 1- Invoice
+Use this workflow if the customer pays you later. As you enter invoices, Accounts
+Receivable increases, and the customer is given a due date to pay their balance.
+
+Steps for Method 1
+Create Invoice
+Receive Payment
+Make Deposit
+
+Step 1. Enter Invoice
+Click the New (+) button.
+Select Invoice.
+Click the customer drop-down arrow and select the appropriate customer.
+Click the Product/Service drop-down arrow to add the appropriate products
+and/or services.
+Click the Save and send drop-down arrow and select the appropriate option.
+
+Page 50
+
+Money In- I – Day 1: Chapter 6
+
+What is Accounts Receivable?
+When you enter an invoice for a customer, QuickBooks tracks the open balance in the
+Accounts Receivable account. The balance in this account is the total of all open
+invoices you have for your customers. When you apply payment against an invoice,
+the balance goes down.
+
+Accounts Receivable Reports
+Review Open Customer Invoices
+Click Invoicing or Sales on the navigation bar.
+Select Customers.
+Click the Unpaid filter at the top of the window.
+
+Mastering QuickBooks Online Level 1
+
+Page 51
+
+Review Accounts Receivable Aging Summary
+Click Reports on the navigation bar.
+Select Accounts Receivable Aging Summary under Who owes you.
+
+Page 52
+
+Money In- I – Day 1: Chapter 6
+
+What Is Undeposited Funds?
+If you use Undeposited Funds, you can combine multiple customer payments into a
+single deposit so that your records in QuickBooks match your bank’s records
+exactly. This is the general workflow for sales where a customer is given time between
+receiving a product or service and paying.
+Rename Undeposited Funds (Optional)
+QuickBooks uses an account called Undeposited Funds to hold money received that
+is waiting to be deposited. Renaming this account can help you understand where
+the money really is. For example, if you keep customer checks and cash payments in
+a blue vinyl bank bag, you could rename your Undeposited Funds account to ‘Blue
+Vinyl Bank Bag’. If you have multiple places where you keep customer payments
+before they are deposited, you can use a generic term like ‘Payments to be
+Deposited’.
+Click Accounting on the left navigation bar and select Chart of Accounts.
+Next to Undeposited Funds (Other Current Asset) click the drop-down arrow in
+the Action column and select Edit.
+Enter an appropriate account Name.
+Click Save and Close.
+
+Mastering QuickBooks Online Level 1
+
+Page 53
+
+Step 2. Receive Payment Toward an Invoice
+Click the New (+) button
+Select Receive Payment.
+Click the customer drop-down arrow and select the appropriate customer.
+Enter the appropriate information in the remaining fields.
+Select the appropriate Outstanding Transaction(s).
+Enter a Memo. (Optional)
+Click the Save and new drop-down arrow and select the appropriate option.
+
+Step 3. Make Deposit
+Click the New (+) button
+Select Bank Deposit.
+Click the Account drop-down arrow and select the account to deposit to.
+Select the payments to deposit.
+Enter a Memo. (Optional)
+Click the Save drop-down arrow and select the appropriate option.
+
+Page 54
+
+Money In- I – Day 1: Chapter 6
+
+Chapter 7
+
+Money In- II
+
+Page 55
+
+Method 2-Sales Receipts
+Enter sales receipts when your customer pays you in full at the time of the sale. Sales
+receipts record income and they also record where the money goes. Whenever
+you're receiving money it can go into Undeposited Funds, just like with invoices and
+receiving payments, or they can go directly into a bank account. The second step in
+this process is a bank deposit.
+
+Steps for Method 2
+Create Sales Receipt
+Make Deposit as you learned in Chapter 6
+
+Step 1. Create Sales Receipt
+Click the New (+) button.
+Select Sales Receipt.
+Enter the appropriate information on the Sales Receipt form.
+This would be the time to consider using Undeposited Funds based on the
+location of the funds when you receive them as well as the method in which you’ll
+be depositing this money into the bank.
+Click Save and close.
+Follow the steps from Method 1 to record the deposit.
+
+Page 56
+
+Money In- II – Day 1: Chapter 7
+
+Record Deposit
+Method 3-Make Deposits
+Use this method to record income on a deposit when none of the other methods are
+used. Please note that although money deposited using this method shows on your
+financial statements, it will not show on sales reports. If you need the money being
+deposited to show on sales reports, use one of the previous methods.
+
+Step 1. Make Deposit
+Click the New (+) button.
+Select Bank Deposit.
+Select the appropriate Deposit to account at the top.
+Enter appropriate information in the Add New Deposits section of the form.
+Click Save and close.
+
+Mastering QuickBooks Online Level 1
+
+Page 57
+
+Method 4- Import from Other Program
+With Method 4, another program or app designed for your industry determines how
+sales are imported into QuickBooks. You can browse apps at apps.intuit.com.
+
+Learn About Integrated Apps
+Click Apps on the navigation bar.
+Select an app from the list to review.
+Click Try It Free (if available) to start a free trial.
+
+Page 58
+
+Money In II – Day 1: Chapter 7
+
+Refund Receipt
+Use this form when you need to give your customer a refund instead of keeping a
+credit to use later.
+
+Enter Refund Receipt
+Click the New (+) button.
+Select Refund Receipt.
+Enter the appropriate information in the Refund Receipt window.
+Click Save and close.
+
+Mastering QuickBooks Online Level 1
+
+Page 59
+
+Credit Memos
+Use this form to issue a customer credit for a previously recorded sale. You should
+create credit memos if you use sales methods 1 or 2.
+
+Enter Credit Memo
+Click the New (+) menu.
+Select Credit Memo.
+Enter appropriate information in the Credit Memo window.
+Click Save and close.
+
+Credit Memo Applied to Invoice
+
+Page 60
+
+Money In II – Day 1: Chapter 7
+
+Review Advanced Automation Setting-Automatically Apply Credits
+Click the Gear menu and select Account and Settings.
+Click Advanced in the list to the left.
+Click in the Automation section.
+Check the box next to Automatically apply credits.
+Click Save.
+
+Apply the Credit Memo
+If you want to select the invoices that the credit memo is applied to, as opposed to
+the automation option shown earlier, you may do so by creating a payment that links
+the Credit Memo to the Invoice.
+Click the New (+) menu.
+Select Credit Memo.
+Enter appropriate information in the Credit Memo window.
+Click Save and Close.
+In the customer center, select the Received Payment option.
+In the Amount Received field, enter $0.00 if you’re only applying the credit to the
+account, not taking any additional payment from this customer.
+Select Save and Close.
+
+Mastering QuickBooks Online Level 1
+
+Page 61
+
+Customer Statements
+Use statements to remind customers of unpaid balances on their account or send
+them a list of transactions that you’ve had with them.
+
+Prepare Customer Statements
+Click Invoicing or Sales on the navigation bar.
+Select Customers.
+Select the checkboxes for the customers you want to send statements to.
+Click the Batch actions button and select Create statements.
+Make the appropriate selections in the Statement Settings window.
+Click Print or Preview to print the statements, or Save and send to send the
+statements to your customers.
+
+Statement Settings-Balance Forward
+The customer is sent is a statement that tells them the amount of money that they
+owed one day before the Start Date. Then it also lists each individual transaction that
+affected their accounts receivable balance between the start and the end date you
+entered when setting up the statement.
+
+Page 62
+
+Money In II – Day 1: Chapter 7
+
+Customer Statement-Balance Forward
+
+Statement Settings-Open Item
+Looking at their statement, a customer might wonder where the “Balance Forward”
+came from since it isn’t detailed on the statement. In those situations, an Open Item
+statement can be sent as well, or instead. Open Item statements show each “open”
+transaction linked to Accounts Receivable, such as unpaid invoices or unapplied
+credits and payments.
+
+Customer Statement-Open Item
+
+Mastering QuickBooks Online Level 1
+
+Page 63
+
+Statement Settings-Transaction Statement
+If you want to tell the customer how much they've spent or donated over a period of
+time, run the Transaction Statement.
+
+Customer Statement-Transaction Statement
+
+Review the Sales by Customer Summary
+Click Reports on the navigation bar.
+Click the Sales by Customer Summary under Sales and Customers.
+
+Page 64
+
+Money In II – Day 1: Chapter 7
+
+Chapter 8
+
+Customizing
+QuickBooks
+
+Page 65
+
+Customizing QuickBooks
+There are a lot of ways to change how QuickBooks works for you, and in this chapter
+you’ll learn customization options for sales and customers.
+
+Customer Label
+The Customer label is how you refer to your customers. When you select a customer
+label, QuickBooks changes all instances of the word Customer to the label you select.
+
+Customize Customer Label
+Click the Gear menu and select Account and Settings.
+Click Advanced in the list to the left.
+Click in the Other preferences section.
+Click the Customer label drop-down arrow and select the appropriate label.
+Click Save.
+
+Page 66
+
+Customizing QuickBooks – Day 1: Chapter 8
+
+Custom Fields
+Use Custom Fields to add data to sales forms that is not included in QuickBooks. You
+can also run reports that include your custom fields.
+
+Add Custom Field
+Click the Gear menu and select Company and Settings.
+Click Sales on the list to the left.
+Click in the Sales Form Content section.
+Enter the Name for the custom field.
+Select the appropriate checkboxes next to Internal or Public.
+Click Save.
+
+Customize Forms
+QuickBooks provides some customization options for your sales forms. As you make
+changes to what appears on your form and how it appears, QuickBooks provides a
+preview of the form appearance. If you edit the Standard style your changes apply to
+invoices, credit memos and sales receipts. But you can also create new styles that
+only apply to a specific transaction type.
+
+Customize Invoice Form
+Click the Gear menu and select Custom Form Styles.
+Click the New Style button.
+Select the form type to customize.
+Make appropriate selections on the Design tab.
+Make appropriate selections in the Content, Emails, and Payments tabs.
+
+Mastering QuickBooks Online Level 1
+
+Page 67
+
+Customize Look and Feel
+
+Sales form content is divided up into three parts: The Header, Table and Footer. The
+Header as at the top of the form. While the Table, or body is where the customer
+sees what products and services they are being charged and the Footer is at the
+bottom of the form.
+
+Customize Form Content- Header
+
+Page 68
+
+Customizing QuickBooks – Day 1: Chapter 8
+
+Customize Form Content- Body
+
+Customize Form Content- Footer
+
+Mastering QuickBooks Online Level 1
+
+Page 69
+
+Customize Email Template
+QuickBooks has a standard email template for your sales forms. But you can
+customize this for all of your sales forms, or for individual forms.
+
+Customize Form Messaging
+
+Click the Gear menu and select Company and Settings.
+Click Sales on the list to the left.
+Click in the Messages section.
+Enter the appropriate information for the sales form message.
+Click Save.
+
+Page 70
+
+Customizing QuickBooks – Day 1: Chapter 8
+
+Set Your Custom Form as Default
+After creating your own custom form, you can make your form the default
+communication sent to customers.
+Select the Gear.
+In the Company and Settings column, click Custom Form Settings.
+To set your template as the default, select the dropdown in the Action tab beside
+the template you wish to make default.
+Select Make Default.
+
+Mastering QuickBooks Online Level 1
+
+Page 71
+
+Editing Default Messaging in Settings
+Another location in QuickBooks Online where you’re able to edit default messaging
+is found in your Sales Settings. Here you’re able to edit the standard messaging for
+numerous communications for both customers and vendors.
+Select the Gear icon.
+Select the Sales tab.
+Edit the message(s) as desired.
+Click Save.
+
+Page 72
+
+Customizing QuickBooks – Day 1: Chapter 8
+
+Chapter 9
+
+Saving Time
+
+Page 73
+
+Find Transactions
+There are a few ways to find transactions in QuickBooks. You can use the
+Sales/Invoicing or Expenses lists, and the built-in search function.
+
+Sales Transactions
+If you’re looking for a sales transaction, you can look at the Sales/Invoicing tab on the
+left navigation bar. Use the Filter drop-down menu to help narrow down the list to
+just the transaction(s) you’re looking for.
+
+Find in Sales Transactions List
+Click Sales (or Invoicing) in the left navigation bar.
+Select All Sales.
+Use the filters at the top of the list, or click the Filter button at the top left and
+select the appropriate filters and click Apply.
+
+Page 74
+
+Saving Time – Day 1: Chapter 9
+
+Expense Transactions
+If you’re looking for an expense transaction, you can look at the Expenses tab on the
+left navigation bar. Use the Filter button to help narrow down the list to just the
+transaction(s) you’re looking for.
+
+Find in Expense Transactions List
+Click Expenses in the left navigation bar.
+Select Expenses.
+Use the filters at the top of the list, or click the Filter button and select the
+appropriate filters then click Apply.
+
+Find in Names List
+If you know the name used on a transaction, you can find it using the appropriate
+names list.
+Open the appropriate names (Customers or Vendors) list.
+Select the name from the list.
+Find the transaction in the Transactions list.
+Click on the transaction to open it.
+
+Mastering QuickBooks Online Level 1
+
+Page 75
+
+Search
+Use the Search function to find transactions quickly. You can use basic search to find
+transactions based on transaction number, date, or amount. Use Advanced Search for
+expanded search options.
+
+Transaction Search
+Click the search icon.
+Enter the search criteria for the transaction and press Enter, or click Advanced
+Search.
+Enter the appropriate search filters.
+Click Search.
+
+Page 76
+
+Saving Time – Day 1: Chapter 9
+
+Recurring Transactions
+Some transactions need to be entered the same way many times. Save time entering
+these with recurring transactions. When it’s time to enter the recurring transaction,
+QuickBooks will ask you to confirm that you want to enter it.
+
+Set Recurring Transaction
+Create a new transaction and add information that will be the same every time.
+Click Make Recurring.
+Enter the appropriate information for the recurring transaction.
+Click Save template.
+
+Quickmath
+When you are in a transaction, you can calculate different amounts for products and
+services with Quickmath. In any number field, enter a dollar amount and a math
+symbol (+, -, *, /). Then enter the number or amount you want to add, subtract,
+multiply or divide by and press Tab on your keyboard.
+
+Mastering QuickBooks Online Level 1
+
+Page 77
+
+Keyboard Shortcuts
+QuickBooks has keyboard shortcuts to make your life easier. To display a list of these
+shortcuts, hold down the Control key and press Alt or Option+?. To use a shortcut,
+hold down Control or Option+Alt, and the corresponding shortcut key.
+
+Date Shortcuts
+Quickly change the date on forms using the keyboard shortcuts in the table below.
+
+Page 78
+
++
+
+Increase form number or increase date
+
+-
+
+Decrease form number or decrease date
+
+R
+
+Changes date to end of year
+
+Y
+
+Changes date to beginning of year
+
+M
+
+Changes date to beginning of month
+
+H
+
+Changes date to end of month
+
+T
+
+Changes date to today’s date
+
+Saving Time – Day 1: Chapter 9
+
+QuickBooks Online Payments
+QuickBooks Online Payments makes it easy for your customers to pay you online.
+When you send your customer an invoice, you can include a Pay Now button that they
+can use to enter their payment information. When they do this, QuickBooks enters all
+the necessary transactions for you and deposits their payment into your designated
+bank account.
+Note: Some fees apply for credit card payments. Go to
+https://quickbooks.intuit.com/payments/ for more information.
+
+Sign up for QuickBooks Online Payments
+Click the Gear menu and select Account and Settings.
+Select Payments.
+Click Learn more.
+Click Finish setup.
+Enter the appropriate information in the following sections.
+Click Submit.
+
+Edit QuickBooks Payments Settings
+Click the Gear menu and select Account and Settings.
+Select Payments.
+Click the edit icon in the appropriate section, and make any necessary changes.
+Click Save.
+
+Mastering QuickBooks Online Level 1
+
+Page 79
+
+Use QuickBooks Online Payments-Invoice
+Click the New (+) menu and select Invoice.
+Enter the appropriate information on the invoice.
+Select the options at the top of the form to allow Card or Bank transfer payments.
+Click Save and send.
+Click Send and close.
+
+Use QuickBooks Online Payments-Sales Receipt
+Click the New (+) menu and select Sales Receipt.
+Enter the appropriate information on the sales receipt.
+Click the Payment method drop-down and select the appropriate payment
+method.
+Select the checkbox next to Process credit card.
+Click Enter credit card details.
+If this is a credit card payment, click Swipe card if you have the credit card reader
+from Intuit, or enter the customer’s payment information manually.
+Click Save.
+Click Got it.
+Click Save and send.
+Click Send and close.
+
+Page 80
+
+Saving Time – Day 1: Chapter 9
+
+Chapter 10
+
+Estimates
+
+Page 81
+
+What are Estimates?
+Estimates are a way to provide your customers with the proposed cost of a job or
+service before invoicing them. They are non-posting transactions, so they will not
+show up on reports or financial statements.
+
+Record and Send an Estimate
+Click the New (+) menu.
+Select Estimate.
+Enter the appropriate information in the Estimate window.
+Click Save and close (or) Save and Send to email the estimate to your customer.
+
+Page 82
+
+Estimates – Day 1: Chapter 10
+
+Create an Invoice from an Estimate
+If your customers request a bid, proposal, or estimate and then you later do the work,
+invoicing based on an estimate is the solution. You might want to set up jobs (subcustomers) to track specific projects for your customers.
+
+Steps for Invoicing Based on Estimate
+Create Estimate
+Create Invoice
+
+Invoice Based on Estimate
+Visit the Customers center.
+Select the Estimates filter at the top of the page.
+Select Start invoice to the create the invoice for the desired estimate.
+On the right side of the invoice, click Add all or select individual estimates to add.
+Click Save and close.
+
+Mastering QuickBooks Online Level 1
+
+Page 83
+
+Create Multiple Invoices from a Single Estimate
+When you select an estimate to add onto an invoice, you’re given the option to
+invoice all or just a portion of the estimate. If you choose to invoice for a portion, this
+is called Progress Invoicing.
+Click the New (+) menu.
+Select Invoice.
+Enter the customer to invoice.
+On the right side of the invoice, select individual estimates to add.
+Choose to invoice for a percentage of the estimate or choose the specific
+products and services to invoice for.
+Click Save and close.
+
+Page 84
+
+Estimates – Day 1: Chapter 10
+
+Chapter 11
+
+Sales Tax
+
+Page 85
+
+What is Sales Tax?
+Sales taxes are taxes placed on the sale or lease of goods and services. Sales tax is
+governed at the state level in the United States and there is no national sales tax.
+
+Set Up Sales Tax
+If you sell taxable goods or services, you’ll need to collect the sales tax for your state
+and any other qualifying state. QuickBooks automatically chooses the sales tax rate
+based on your location. But if you have a distribution center or an office in another
+state, you’ll also need to collect sales tax on sales made in that state. Intuit has
+thought of this and during the sales tax setup you can tell QuickBooks you’re
+required to collect tax for other states.
+
+Edit Sales Tax Settings
+Click Taxes on the navigation bar and select Sales Tax.
+Click Set up sales tax.
+Make the appropriate selections in the following windows.
+Click Got it.
+
+Page 86
+
+Sales Tax - Day 1: Chapter 11
+
+Sales Tax Options for Customers
+By default, QuickBooks sets all customers as taxable. If you have a customer who is
+tax exempt, you need to change their settings in their customer information.
+
+Set Up Nontaxable Customer
+Click Sales on the navigation bar and select Customers.
+Click New.
+Enter the appropriate information for the customer.
+Click the Tax Info tab.
+Select the checkbox next to This customer is tax exempt.
+Click the Reason for exemption drop-down list and make the appropriate
+selection.
+Click Save.
+
+Mastering QuickBooks Online Level 1
+
+Page 87
+
+Sales Tax Options for Products
+Click Sales and select Products and Services.
+Edit a product to mark as taxable.
+Select the correct category in the Sales Tax Category dropdown.
+Click Save and close.
+
+Page 88
+
+Sales Tax - Day 1: Chapter 11
+
+Taxable Sale
+To record a taxable sale, either use a product that you’ve set up as a taxable item, or
+check the box beside “Tax” to make an item taxable from the sales form window.
+QuickBooks then adds up all of the taxable products and displays them as a Taxable
+subtotal. QuickBooks then adds up all of the taxable products and displays them here
+as a Taxable subtotal. This is the amount of sales tax the customer will pay. You
+collect this amount on the sale, and then later, send this money to the state.
+
+Non-taxable Sale
+In order for the sale to include sales tax, two things must be true: the product or
+service being sold must be taxable and the customer must be taxable as well. As long
+as one of those situations is not true to the sale being made, it will remain nontaxable.
+
+Mastering QuickBooks Online Level 1
+
+Page 89
+
+Pay Sales Taxes
+When you collect sales tax, you’re in a unique position. Since it’s money you have
+that’s owed to someone else, it’s considered a liability on your Balance Sheet.
+Whenever you collect sales tax, QuickBooks calculates the tax amount and increases
+the account balance for you. When you send the money to the tax agency you
+collected for, QuickBooks lowers the balance of the account.
+
+Determine Amount Due
+Review Sales Tax Liability Report
+Click Reports on the navigation bar.
+Select the Sales Tax Liability report in the Sales Tax section.
+
+Pay Sales Taxes
+Click Taxes on the navigation bar, and select Sales Tax.
+Click View return next to the appropriate sales tax.
+Click the Select Filing Method button.
+Select the appropriate filing method based on the options available to you.
+Enter the appropriate information in the Record payment window (if filing
+manually).
+Click Record payment.
+Click Close.
+
+Page 90
+
+Sales Tax - Day 1: Chapter 11
+
+Chapter 12
+
+Money Out- I
+
+Mastering QuickBooks Online Level 1
+
+Page 91
+
+Vendors
+Companies or individuals you purchase goods or services from are called vendors (or
+Suppliers in QuickBooks Online Canada). If you need to enter a bill, send a 1099 to a
+company or individual, or track purchases by vendor, they must be set up as a
+vendor. The Vendors list stores vendor information and makes it easy to filter to see
+all vendors, vendors you owe money to and even vendors that you’re overdue on
+paying.
+
+Purchase/Expense Transactions
+You can also see purchase and expense transactions associated with vendors.
+
+Page 92
+
+Add Vendor
+Click Expenses on the navigation bar.
+Click Vendors.
+Click New vendor.
+Enter appropriate information in the Vendor Information page.
+Click Save.
+
+Money Out Workflow
+Your bookkeeping should accurately mirror the transactions that occur in the real
+world as closely as possible. There are two different ways to enter and pay bills. The
+method you use depends on if you track accounts payable for a transaction.
+
+Mastering QuickBooks Online Level 1
+
+Page 93
+
+Method 1: Use Accounts Payable
+What is Accounts Payable?
+Tracking accounts payable means that you enter the bill before paying the vendor. If
+you track accounts payable, you always know how much you owe vendors for bills.
+Expenses are also recorded in the correct accounting period. You will also be warned
+when entering duplicate bills.
+Not all money out transactions require you to use Accounts Payable. If you pay for
+something right away, or you paid it in the past, you won’t need to use Accounts
+Payable. You learn how to deal with those kinds of money out transactions later.
+
+Steps if you use Accounts Payable
+Enter Bill
+Pay Bill (regardless of how you pay the bill: check, credit card, PayPal, cash, other
+
+Page 94
+
+Sales Tax - Day 1: Chapter 11
+
+Advantages of Bills
+1. Company Setting-Warn About Duplicate Bills
+Click the Gear menu and select Account and Settings.
+Click Advanced on the list to the left.
+Click in the Other preferences section.
+Click the box next to Warn if duplicate bill number is used.
+Click Save.
+
+2. Greater Control over Expenses and Financial Statements
+Using Bills allows you to realize the expense on the day of the Bill and not the day of
+the Bill Payment.
+
+3. Keep Track of Who you Owe and Bill Due Dates
+By using Bills you have access to two important Accounts Payable reports: Accounts
+Payable Aging Summary and Detail. Both reports show who you owe, how much you
+owe them and if you are overdue. The Summary report shows totals owed to the
+vendor whereas the Detail report shows each bill separately.
+
+Mastering QuickBooks Online Level 1
+
+Page 95
+
+Step 1. Record Bills
+Click the New (+) menu.
+Select Bill.
+Enter the appropriate information on the bill.
+Click Save and close.
+
+Should You Record a Bill Payment?
+If you enter a Bill in QuickBooks the only way to record the payment is with Pay Bills.
+Entering the Bill increases Accounts Payable and your payment lowers Accounts
+Payable. It is, however, possible that you’ll also download your bill payments. If you
+record a bill and then later download the bill payment, you won’t need to enter it
+manually at all. Just visit the Banking Center and you should see the downloaded
+transaction “Match” against your bill. If, however, you pay a bill with a check or aren’t
+using online banking, you can still enter bill payments manually.
+
+Page 96
+
+Sales Tax - Day 1: Chapter 11
+
+Recording Bill Payments
+Step 2. Pay Bills
+Click the New (+) menu.
+Select Pay Bills.
+Select the appropriate Payment account.
+Select the bills you’re paying.
+Enter the Payment Date.
+Click Save and Close or Save and Print.
+Select Bills to Pay
+
+Method 2: No Accounts Payable
+If you’ve decided to not track Accounts Payable in QuickBooks,
+or you’ve just paid for something that didn’t involve a bill, you
+don’t need to use Bills/Bill Payments. Instead, all you have to
+record is a Check or Expense. Checks are used for physical
+checks that are not connected with a bill. Whether you want to
+print them through QuickBooks or record a handwritten check,
+Checks are the right transaction to record. If you spent money
+through any method other than a check use an Expense instead.
+Record a Check
+Click the Global Create menu.
+Select Check.
+Enter the appropriate information on the Check form.
+Click Print check to print the check now. Otherwise, click the box next to Print
+later to print the check along with other checks later.
+Mastering QuickBooks Online Level 1
+
+Page 97
+
+Click Save and close.
+
+Check-To Be Printed Later
+
+Hand-written Check
+
+Printing Checks
+
+Page 98
+
+Sales Tax - Day 1: Chapter 11
+
+Record an Expense
+For expenses other than checks and bill payments, use the Expense form. This form
+can be used for debit cards, credit card charges, PayPal charges, and other noncheck forms of payment.
+Click the New (+) menu.
+Select Expense.
+Select the appropriate payment account and Payment method.
+Enter appropriate information in the Expense form.
+Click Save and close.
+
+Enter Expense (Credit Card Charge)
+
+Enter Expense (Debit Card)
+
+Mastering QuickBooks Online Level 1
+
+Page 99
+
+Reports
+Review the A/P Aging Summary
+Click Reports on the navigation bar.
+Select Accounts Payable Aging Summary under Who you owe.
+
+Review the Expenses by Vendor Summary
+Click Reports on the navigation bar.
+Select Expenses by Vendor Summary under Expenses and Vendors.
+
+Page 100
+
+Sales Tax - Day 1: Chapter 11
+
+Chapter 13
+
+Money Out- II
+
+Page 101
+
+Credit Cards
+You handle credit card transactions in much the same way as bank account
+transactions. You need to have a credit card account on your Chart of Accounts, and
+whenever you purchase something with that credit card, or pay it off, you need to
+record it in QuickBooks. You can set up your credit card to download transactions, or
+you can record transactions manually.
+
+Set up Credit Card Account
+Click Accounting on the left navigation bar.
+Click New.
+Click the Account Type drop-down list and select Credit Card.
+Enter the Name of the account.
+Enter the Balance on the card, and the date it had that balance (usually it’s best to
+find your balance from the beginning of the fiscal year and enter that).
+Click Save and Close.
+
+Page 102
+
+Money Out- II- Day 2: Chapter 13
+
+Record Credit Card Expense
+Click the New (+) menu and select Expense.
+(Optional) Enter a Payee.
+Click the Payment account drop-down and select your credit card account.
+Enter the Payment date.
+(Optional) Click the Payment method drop-down menu and select the
+appropriate payment method.
+Click on the first line under Account Details and select the appropriate expense
+account.
+(Optional) Enter a description.
+Enter the amount.
+Click Save and close.
+
+Mastering QuickBooks Online Level 1
+
+Page 103
+
+Record Credit Card Payment
+Click the New (+) menu and select Expense.
+(Optional) Enter a Payee.
+Click the Bank/Credit account drop-down and select your bank account.
+Enter the Payment date.
+(Optional) Click the Payment method drop-down and select the appropriate
+payment method.
+Click on the first line under Account Details, and select the credit card account.
+(Optional) Enter a description.
+Enter the amount.
+Click Save and close.
+
+Page 104
+
+Money Out- II: Day 2- Chapter 13
+
+Turn on Customer/Project Costs
+Click the Gear menu and select Account and Settings.
+Click Expenses on the list to the left.
+Click in the Bills and expenses section.
+Make appropriate selections in the Account and Settings window.
+Click Save.
+
+Mastering QuickBooks Online Level 1
+
+Page 105
+
+Enter Customer/Project Related Costs
+You can enter expenses related to customers/projects by using the Customer field on
+expenses, checks and bills.
+Click the New (+) menu.
+Select Expense, Check, or Bill.
+Use the Customer field to record who/what the expense was for.
+Click Save and close.
+
+Vendor Credit Memos
+When a vendor gives you a credit to use on a future bill, enter a Vendor Credit.
+QuickBooks will automatically apply this credit to future bills from the same vendor.
+
+Enter Vendor Credit
+Click the New (+) menu.
+Select Vendor Credit.
+Enter appropriate information in the Vendor Credit window.
+Click Save and close.
+
+Page 106
+
+Money Out- II: Day 2- Chapter 13
+
+Vendor Balance Detail Report
+Run a vendor balance detail report to keep track of who your business owes money
+to and when it needs to be paid.
+
+Pay Bills- Apply Credit
+Click the New (+) menu.
+Select Pay Bills.
+Select the appropriate bills to pay (Notice QuickBooks uses available credits).
+Click Save and print or Save and close.
+
+Mastering QuickBooks Online Level 1
+
+Page 107
+
+Bill Payment Check and Voucher Showing Credit Applied
+
+Void vs. Delete Checks
+Void a check if you used the check number but the check will never be cashed.
+Delete a check if the check was never written.
+
+Delete a Check
+Display the appropriate check.
+Click the More button and select Delete.
+Click Yes to confirm.
+
+Void a Check
+Display the appropriate check.
+Click the More button and select Void.
+Click Yes to confirm.
+
+Page 108
+
+Money Out- II: Day 2- Chapter 13
+
+Chapter 14
+
+Online
+Banking
+
+Page 109
+
+Online Banking
+You can potentially download transactions directly from your bank and credit cards
+allowing you to skip some of the manual data entry. You’ll learn how to set up a bank
+account on your Chart of Accounts, then take a tour of the Banking Center and learn
+how to integrate them into your books. You’ll learn the difference between matching
+and adding transactions, and situations such as transfers, credit card charges and
+payments.
+
+Add Bank Account
+Managing your bank and credit card accounts in QuickBooks is free and easy to use.
+After you add your bank account to QuickBooks you choose how far back you want
+QuickBooks to go when downloading historical transactions. After that, it’s easy to
+add and match transactions that are automatically downloaded as they clear your
+bank.
+
+Option 1: Add Bank Account to Chart of Accounts
+Click Accounting on the left navigation bar.
+Select Chart of Accounts at the top of the page.
+Click New.
+Enter appropriate information on the new account page.
+Click Save.
+
+If you choose to add the bank account to your Chart of Accounts, you will upload the
+bank transactions from your downloaded bank statements on a regular basis.
+
+Page 110
+
+Online Banking – Day 2: Chapter 14
+
+Set Up for Online Banking
+
+Click Banking on the navigation bar.
+Click Add account.
+Enter your bank name or online banking URL, or select from a list of popular
+banks.
+Enter the login information you use to access your account on your bank’s
+website.
+Click Sign in.
+Click the drop-down list next to each account you want to connect and select the
+bank or credit card account on your chart of accounts.
+Click Connect.
+
+The Online Banking Center
+
+Add Account
+
+Mastering QuickBooks Online Level 1
+
+Page 111
+
+Login to Your Bank Account
+
+Connect Your Accounts
+
+If you connect your bank account, you’ll be able to download previous transactions
+into your banking center. Future transactions in your bank account will be
+automatically downloaded into your QuickBooks Banking Center.
+
+Page 112
+
+Online Banking – Day 2: Chapter 14
+
+The Online Banking Center
+After you’ve connected your bank account to QuickBooks, you’re ready to update
+QuickBooks with new bank activity. You manage this process through the Online
+Banking Center.
+Note: Each connected account shows a Bank Balance and an In QuickBooks balance.
+These balances will often differ from each other as the Bank Balance is based on
+transactions that have cleared the bank account, and the QuickBooks Balance is
+based only on transactions that have been recorded in QuickBooks.
+
+Online Banking Center Processes
+The Bank and Credit Cards page is where you perform all your online banking tasks.
+• File upload
+Click File upload to upload a list of transactions from your bank. Note that you
+won’t need to do this if you choose to connect your bank to QuickBooks.
+• Link account
+Click Link account to connect a new account to QuickBooks.
+• For Review
+The For Review tab lists transactions downloaded from your bank that haven’t
+been added or matched to existing transactions in QuickBooks. Until these
+transactions are added or matched, they have no impact on your accounting
+records.
+• Categorized
+The Categorized tab lists transactions you have matched or added to QuickBooks.
+This tab does NOT show transactions that you manually entered into QuickBooks.
+• Excluded
+The Excluded tab lists transactions you have chosen to exclude, such as duplicate
+transactions or transaction history you don’t need in QuickBooks. You can undo
+this action at any time.
+
+Mastering QuickBooks Online Level 1
+
+Page 113
+
+Open the Online Banking Center
+Click Banking on the navigation bar.
+Select an account from the top of the page.
+
+Manage Downloaded Transactions
+There are two types of downloaded transactions: ones that you have already entered
+into QuickBooks, and ones that have not been entered into QuickBooks.
+Match- Transactions that you’ve already entered need to be verified or ‘matched’ to
+the downloaded expense. If QuickBooks finds that you’ve already entered something
+that it has downloaded, you’ll see “Match” or “View” as an option. By matching a
+downloaded transaction with something you’ve already entered, you ensure that the
+transaction is not entered twice. QuickBooks attaches the downloaded version to the
+version you’ve already entered.
+View- If QuickBooks finds that you’ve already entered two or more transactions like
+the bank transaction you’ve downloaded, you’ll need to choose the exact transaction
+which is a match. The non-selected transaction(s) will remain in the Online Banking
+center until action is taken on that remaining transaction.
+
+Page 114
+
+Online Banking – Day 2: Chapter 14
+
+Review/Match Downloaded Transactions (Already Entered)
+On the For Review tab, select a transaction to match.
+Select the appropriate match, or click Find match if the transaction was not
+matched correctly.
+Click Match.
+
+Batch Accept Downloaded Transactions (Already Entered)
+On the For Review tab, select all matched transactions.
+Check the box to the left of the desired transactions and select Accept.
+
+Mastering QuickBooks Online Level 1
+
+Page 115
+
+Add Downloaded Transactions (Not Already Entered)
+New transactions that you haven’t recorded in QuickBooks yet can be “added,” which
+means that QuickBooks creates a new transaction for you based on the downloaded
+information and the information that you add into the transaction, specifically the
+Who, When, What and How Much. Sort the list by the column headers to help
+organize your work.
+When dealing with a new transaction, you’ll see the date it cleared the bank (the
+When), how much money it was for (the How Much), and something called the Bank
+Detail, which is usually who you paid (the Who). QuickBooks cannot download the
+reason Why you spent the money, so you must enter the category, or account, as an
+explanation to QuickBooks for why the money was spent or received. In doing so,
+you’ll be able to track why you spent or received the money later on your financial
+statements.
+On the For Review tab, select a transaction to add.
+Correct or enter an appropriate name (optional) and account category.
+Click Add.
+
+Recognized Transactions
+As you add information to downloaded transactions, QuickBooks ‘remembers’ the
+accounts and names you’ve added to previous transactions, and prefills some of this
+information for you. These transactions are listed together on the Recognized list. You
+can batch add these recognized transactions to save time.
+
+Page 116
+
+Online Banking – Day 2: Chapter 14
+
+Add Downloaded Transactions (Recognized)
+Click All transactions at the top of the list and then choose Recognized.
+Review the information for new transactions, and make any necessary changes.
+Check the box to the left of the desired transactions and select Accept.
+
+Mastering QuickBooks Online Level 1
+
+Page 117
+
+What Gets Downloaded
+You might be wondering why you would need to manually add anything into
+QuickBooks if your transactions are already downloaded from your connected bank
+account. Since online banking makes it so easy to enter transactions, it’s tempting to
+rely on it to record all of your transactions. However, there are some transactions that
+cannot be downloaded from the bank that you still need to enter manually. If you
+want QuickBooks to print a check, or if you want to record more specific products
+and services a customer purchased from you, you’ll need to enter in those details
+through a manually entered transaction.
+
+Transactions You Add Through Online Banking
+•
+
+Receive Payment (should still be entered manually if it applies to multiple
+invoices, or was deposited with other payments)
+
+•
+
+Expenses
+
+•
+
+Bill Payments (if a bill was paid with a check, it should still be entered manually)
+
+•
+
+Credit Card Credit
+
+•
+
+Transfers
+
+Transactions You Enter Manually
+•
+
+Invoices
+
+•
+
+Estimates
+
+•
+
+Credit Memos
+
+•
+
+Sales Receipts
+
+•
+
+Refund Receipts
+
+•
+
+Delayed Credits
+
+•
+
+Delayed Charges
+
+•
+
+Checks
+
+•
+
+Bills
+
+•
+
+Purchase Orders
+
+•
+
+Vendor Credits
+
+•
+
+Paychecks and Timesheets (third party payroll can sometimes be downloaded
+as an expense)
+
+•
+
+Deposits
+
+Page 118
+
+Online Banking – Day 2: Chapter 14
+
+Manage Downloaded Deposits
+Deposits you make at the bank can be added through online banking if they’re
+deposits for a single transaction. For example, a refund from a vendor. But if a
+deposit you make at the bank is for a batch of transactions, such as customer
+payments on invoices, you should still record it manually in QuickBooks.
+When you receive a refund from a vendor, this effectively reduces the expense you
+incurred with that vendor. When the refund is downloaded from the bank, select the
+expense account you used on the original expense with the vendor to reduce your
+expense account balance on your financial statement.
+
+Review/Add Downloaded Deposits (Not Entered)
+On the For Review tab, select the deposit.
+(Optional) Add a vendor name.
+In the Category field, select the appropriate income or expense account.
+Click Add.
+
+Mastering QuickBooks Online Level 1
+
+Page 119
+
+Add Split Transactions
+When an expense is downloaded that needs more than one expense account
+associated with it, you can do this with the Split option.
+
+Review/Add Split Transactions
+On the For Review tab, select the transaction.
+Click Split Transaction.
+
+(Optional) Add a payee name.
+On the first line, select an appropriate account.
+On the following lines, select the appropriate expense accounts, and enter the
+appropriate amounts (click Add lines if necessary).
+Click Save and add.
+
+Page 120
+
+Online Banking – Day 2: Chapter 14
+
+Exclude Transactions
+You can exclude downloaded transactions such as duplicates or transactions that
+took place before when you chose to start tracking an account.
+
+Reasons to Exclude Transactions
+If you are connecting an account you have used manually in QuickBooks Online
+and are now starting to download transactions from your bank and transactions
+you’ve already reconciled appear in the Banking Center
+If the bank sent the transaction more than once.
+If the transaction happened before the starting date/balance for the account. In
+other words, if it happened before the “As of” date that you entered for the
+account as you set it up.
+
+Exclude New Transactions
+On the For Review tab, click the box next to transactions to exclude.
+Click Exclude.
+
+Mastering QuickBooks Online Level 1
+
+Page 121
+
+Transfers
+Transfers are financial transactions that represent you moving money from one bank
+account to another. They can be downloaded and added to QuickBooks without
+entering them manually first. If you transfer money between two bank accounts that
+you’ve connected to download transactions, then you only need to Add the transfer
+for one account, and then Match it for the other.
+
+Add Transfers
+On the For Review tab, select the transfer.
+In the Category field, select the account the money came from (if this is an
+increase in the bank account) or the account the money went to (if this is a
+decrease in the bank account).
+Click Add.
+
+Page 122
+
+Online Banking – Day 2: Chapter 14
+
+Credit Card Payments
+If you pay your credit card balance online or with your debit card, those payments will
+be downloaded to the banking center.
+
+Add Credit Card Payments
+On the For Review tab, select the credit card payment.
+(Optional) Click the Payee drop-down and select a payee.
+In the Category field, select the credit card account to apply the payment towards.
+Click Add.
+
+Note: If you have your credit card account connected as well, once you Add the
+transaction for the bank account, it will show up as a Match on the credit card
+account.
+
+Mastering QuickBooks Online Level 1
+
+Page 123
+
+Recording a Personal Expense
+It’s tempting to want to exclude personal expenses, however, all transactions from
+your bank account need to be recorded in QuickBooks in order for you to reconcile
+the account. During reconciliations you compare your bank statements to what you
+have in QuickBooks to make sure you’ve recorded everything that happened in that
+account. If you exclude ANY transactions that appear on your bank statement, you’ll
+not be able to reconcile.
+Instead of excluding these transactions when they show up, you can use an Equity
+account in the Category field to properly record the transaction. Most businesses
+have an equity account named Owner’s Draw that is used for these kinds of personal
+purchases. If you do not have this on your Chart of Accounts, you can easily create a
+new Equity account with this name.
+
+Page 124
+
+Online Banking – Day 2: Chapter 14
+
+Chapter 15
+
+Reconciliation
+
+Mastering QuickBooks Online Level 1
+
+Page 125
+
+Reconcile Bank Account
+Trusting your reports and balances in QuickBooks is important. Your task with all
+bookkeeping is to record transactions accurately so that they match with the reality of
+your business’ bank and credit card accounts. The best way to check for accuracy is
+to perform a reconciliation, which is the process of comparing your records in
+QuickBooks to the official records you receive from your bank and credit card issuers.
+When to reconcile: Real World Training recommends that you reconcile every month
+when you receive the bank/credit card’s official statement.
+Before you reconcile: To reconcile, you should have last month’s bank statement on
+hand for this process, printed if possible.
+
+Reconcile Account
+Click the Gear menu and select Reconcile.
+Click the Account drop-down arrow and select the appropriate bank or credit card
+account.
+
+Enter the Ending balance and the Ending date you see on the statement.
+Click the Start reconciling button.
+Select the transactions that cleared the bank.
+
+Page 126
+
+Reconciliation – Day 2: Chapter 15
+
+3
+
+1
+
+2
+
+What you’ll see on the reconciliations screen...
+Reconciliation equation - Throughout the reconciliation process QBO calculates
+several numbers. The first is the beginning balance which is the amount you had
+in the bank at the beginning of the month. QuickBooks determines this by adding
+up all of the transactions you’ve reconciled in the past. The Cleared Balance is the
+balance of all the selected transactions. If what’s on the bank statement doesn’t
+match what you’ve checked off for your cleared balance, QuickBooks shows you a
+difference. That means there’s a difference between what you have in QuickBooks
+and what the bank or credit card reports on the statement.
+Pre-reconciled transactions - If you use Online Banking, the transactions you’ve
+added or matched already have checkmarks. This is one of the great things that
+online banking does for you. If you’re using online banking to add and match all
+of your transactions you might just see an entire row of checkmarks and you won’t
+need to do any more work at all since everything has already been checked
+against the bank’s records.
+The goal of the reconciliation - The goal is to check off all the transactions that
+appear on your bank statement and get a difference of zero!
+
+Mastering QuickBooks Online Level 1
+
+Page 127
+
+Completing your Reconciliation
+Click Finish Now.
+Click View report to open the Reconciliation Report.
+Click Print.
+
+Reconcile Completed
+
+What Causes a Reconciliation Difference?
+There are a few reasons for a difference between your bank or credit card statement
+and what you have in QuickBooks.
+The ending balance or date is incorrect. This can be fixed by clicking the Edit
+button to change it to what you see on your statement.
+You might have a transaction checked on the Reconciliation window that shouldn’t
+be. To fix this, just uncheck it in the reconciliation window to remove it from the
+balance.
+One of the transactions you’ve checked in the reconciliations window is for the
+wrong amount. You may edit the balance by clicking on the line of the incorrect
+transaction.
+
+Page 128
+
+Reconciliation – Day 2: Chapter 15
+
+Reconciliation Report
+It’s important to remember that in most cases you should never change transactions
+after they’re reconciled. To track down changes or deletions if they happen, you can
+view the History by Account. Here you’ll see a brief summary of your reconciliations
+including beginning and ending balances, as well as changes, if any have occurred,
+and any adjustments that might have been made while reconciling.
+
+Mastering QuickBooks Online Level 1
+
+Page 129
+
+Account Register
+Every Balance Sheet account in QuickBooks has a register. A register is a record of all
+the transactions you’ve recorded for that account. It shows transactions you manually
+added, as well as those you matched and added through the Bank and Credit Cards
+page. QuickBooks marks matched/added transactions as “C” cleared and indicates it
+was an automatically added transaction. Reconciled transactions are indicated with an
+“R”.
+
+Review Bank Account Register
+Click Accounting on the navigation bar.
+On the Chart of Accounts, click the View register link next to the account.
+
+Page 130
+
+Reconciliation – Day 2: Chapter 15
+
+Chapter 16
+
+Mobile App
+
+Page 131
+
+Install Mobile App
+The free mobile app for QuickBooks Online makes it easy to enter sales and expense
+transactions, add and match downloaded transactions, and manage lists. You can
+install the app on your phone or tablet from the app store for your device.
+Browse to the app store on your phone or tablet (App store on Apple® devices,
+Google Play store on Android® devices).
+Search for ‘QuickBooks Accounting’.
+Select the QuickBooks Accounting app in the list of results.
+Select the option to Get (Apple) or Install (Android) the app.
+Follow the prompts to complete the installation.
+
+Page 132
+
+Mobile App - Day 2: Chapter 16
+
+Mobile App Dashboard
+The Dashboard in the mobile app displays information about your business such as a
+Profit and Loss graph, and an Expenses graph. You also see an Activity list which
+shows recent transactions and changes to list entries and company information.
+
+Access Mobile App Dashboard
+Browse to the QuickBooks Accounting app on your mobile device.
+Enter your login information and select Sign in.
+
+Mastering QuickBooks Online Level 1
+
+Page 133
+
+Moving Around in QuickBooks Mobile
+You can access all the features in the mobile app from two areas:
+Hamburger menu
+New (+) menu
+
+Page 134
+
+Mobile App - Day 2: Chapter 16
+
+Hamburger Menu
+The Hamburger menu appears at the bottom right on the IOS app. It provides quick
+access to lists you use often as well as common transactions and reports.
+
+Mastering QuickBooks Online Level 1
+
+Page 135
+
+New (+) Menu
+The New (+) appears at the bottom middle of the app. It allows you to record
+transactions for customers and vendors, as well as deposits.
+
+Page 136
+
+Mobile App - Day 2: Chapter 16
+
+View Customer/Vendor Information
+Tap the Hamburger menu.
+Select Customers or Vendors.
+Select the name you want to view more information for.
+Select Activity to see transactions for that name; select Details to see contact
+information such as phone number and address.
+Select the phone icon to call the customer or vendor.
+Select the speech bubble icon to send a text message to the customer or vendor.
+Select the envelope icon to email the customer or vendor.
+Select the map location icon to get directions to their address.
+Select the back arrow (<) to return to the list.
+
+Mastering QuickBooks Online Level 1
+
+Page 137
+
+Online Banking in App
+When transactions are downloaded from your bank, you can add and/match them
+directly in the QuickBooks Online app. There’s no need to wait to get back to the
+office to manage your transactions.
+
+Add/Match Downloaded Transactions
+Tap the Hamburger menu.
+Select Banking.
+Select the appropriate account.
+Select a transaction in the list:
+•
+
+To Match a transaction, select Accept at the bottom of the screen.
+
+•
+
+To Add a transaction, select the appropriate name and account information
+and select Accept.
+
+Page 138
+
+Mobile App - Day 2: Chapter 16
+
+Run Reports
+You can run two reports in the QuickBooks Online app: the Profit & Loss Statement
+and the Balance Sheet.
+
+Run Profit & Loss
+Tap the Hamburger menu.
+Select Profit & Loss.
+Select View Report.
+Select the settings icon at the top right to change the date range on the report.
+
+Mastering QuickBooks Online Level 1
+
+Page 139
+
+Viewing the Profit and Loss
+
+Page 140
+
+Mobile App - Day 2: Chapter 16
+
+Run Balance Sheet
+Tap the Hamburger menu.
+Select Balance Sheet.
+
+.
+
+Mastering QuickBooks Online Level 1
+
+Page 141
+
+Record Transactions
+You can record sales and expense transactions in the QuickBooks Online app.
+
+Record an Invoice
+Tap the New (+) menu.
+Select Invoice.
+Select a Customer.
+Select Add Line Item to add a product or service to the invoice.
+Select the product or service from the list.
+Enter the Quantity and Rate.
+Select Add at the top right.
+Repeat steps 4-7 for additional products and services.
+Select Save.
+Select Send invoice to email the invoice to the customer, then select Send.
+
+Page 142
+
+Mobile App - Day 2: Chapter 16
+
+Viewing the Invoice Status
+
+Mastering QuickBooks Online Level 1
+
+Page 143
+
+Record an Expense
+Tap the New (+) menu.
+Select Expense.
+Enter the amount.
+(Optional) Select the camera icon to add a picture of your receipt.
+Select the method of payment.
+Select the Account the expense was paid from.
+Enter the payee in the Who did you pay? field.
+Select the appropriate account in the What kind of expense is this? field.
+(Optional) Select a customer in the Who was it for? field.
+Enter a description in the Anything you need to remember? field.
+Select Add a Split if you need to select another account.
+(Optional) Enter a Reference # and a Memo.
+Select Save.
+
+Page 144
+
+Mobile App - Day 2: Chapter 16
+
+Chapter 17
+
+Working With
+Reports
+
+Page 145
+
+Working with Reports
+The reason you use QuickBooks is to get reports. If entering transactions and
+performing reconciliations is the work, then reports are the results. Reports you get
+out of QuickBooks are only as reliable as the data that you put in, This chapter
+teaches you how to find what you’re looking for in the QuickBooks reports center.
+
+Run Reports
+The Report Center is where you can find all the reports that help you keep track of
+your business. There are four areas of the report list:
+• All Reports
+A list of all available reports in QuickBooks.
+• Custom Reports
+Reports that you have customized and memorized for future use.
+• Management Reports
+Customizable report packet that includes a cover letter, and table of contents.
+• Search Box
+Just type the name of a report and QuickBooks finds it for you.
+
+Running Reports
+Click Reports on the navigation bar.
+Click Run next to the appropriate report or search for a report and press Enter.
+
+Page 146
+
+Working With Reports- Day 2: Chapter 17
+
+Types of Reports
+There are three types of reports in QuickBooks. Each type offers different views of
+company information and has varying levels of details.
+
+List Reports
+List reports are the most basic kind of report in QuickBooks. They don’t do any
+analysis, they only list data. Examples include the Customer Contact List, and the
+Invoice List. Lists reports are great if you want to look up a lot of data quickly. They
+are good for looking up information and printing or exporting it.
+
+Mastering QuickBooks Online Level 1
+
+Page 147
+
+Detail Reports
+Detail reports show the transactions that affect balances for customers, vendors,
+accounts, or products and services. Examples include the Sales by Customer Detail
+report, and Profit and Loss Detail
+
+Page 148
+
+Working With Reports- Day 2: Chapter 17
+
+Summary Reports
+Summary reports are the most used of the report types. They show a list of customers,
+vendors, products and services, or accounts and information on balances associated
+with them without showing the transactions that contribute to that balance. Examples
+include the Sales by Customer Summary report, and the Balance Sheet.
+Summary reports show you a total but instead of showing you each individual
+transaction you’ll see a total for each item, whatever it might be. By clicking on the
+total for a particular item, you’ll get a detail report that shows you individual
+transactions that make up the total.
+
+Mastering QuickBooks Online Level 1
+
+Page 149
+
+Modify Reports – General
+Customize Report
+Click the Customize button.
+Select General.
+
+Changing Date Range
+By default, the many reports show the company’s data for the year-to-date, but you
+can choose what time period you want more information on like the Previous Quarter.
+Now you’ll see all income, cost of goods sold, and expenses for that chosen period of
+time.
+
+Page 150
+
+Working With Reports- Day 2: Chapter 17
+
+Modify Reports- Numbers
+QuickBooks lets you change how numbers are displayed by dividing them by 1000.
+You can also display values without cents. You can even choose how negative
+numbers are displayed.
+
+Numbers Without Cents
+
+Mastering QuickBooks Online Level 1
+
+Page 151
+
+Collapse/Expand
+
+Page 152
+
+Working With Reports- Day 2: Chapter 17
+
+Modify Reports- Rows/Columns
+Customize Report
+Click the Customize button.
+Select Rows/Columns.
+You can change the columns to break up the data in other ways, by selecting
+Customize, then Previous Comparison. You also have the option to see a dollar
+and/or percentage change for the previous year or period.
+
+Rows/Columns
+
+Mastering QuickBooks Online Level 1
+
+Page 153
+
+Sort Order-Descending
+It is possible to change the sorting method.
+Click the Sort drop down arrow
+Select Total in descending order.
+
+Page 154
+
+Working With Reports- Day 2: Chapter 17
+
+Columns-Total By Month
+By default, reports show a single column for income, cost of goods sold and
+expenses. You can break up the report by dividing the data by days, weeks, months,
+quarters and more. Instead of a single column, you can select Display Columns by
+and select the desired view (e.g. months).
+
+Modify Reports-Filters
+Customize Report
+You have the option to change the accounts that are viewed on your reports. This
+includes accounts that were used in transactions only (active), all accounts, or only
+those with a non-zero balance.
+
+Mastering QuickBooks Online Level 1
+
+Page 155
+
+Select from Filters
+Click the Customize button.
+Select Filter.
+These filters represent all the data displayed on the report. Right now, all income,
+cost of goods, expense accounts, and all customers, vendors, employees, and other
+metrics are building the report. To see income and expenses for a particular
+customer (for example), select the checkbox(es) beside the selection(s) you want
+details on.
+
+Removing Filters
+At the top of the report, QuickBooks shows all of the filters that are currently applied.
+Just click the X to remove the filter.
+
+Page 156
+
+Working With Reports- Day 2: Chapter 17
+
+Reporting by Specific Product/Service
+
+Mastering QuickBooks Online Level 1
+
+Page 157
+
+Modify Reports- Header/Footer
+Customize Report
+Click the Customize button.
+Select Header/Footer.
+In the customize menu, you can change more features of the header or footer. To
+remove a section such as company name select the checkbox to the left of the field.
+On this menu you can also edit title details and adjust alignment as desired.
+
+Header/Footer
+
+Page 158
+
+Working with Reports- Day 2: Chapter 17
+
+Save Report Customizations
+Click Save Customizations.
+Enter the appropriate information for the customized report.
+Click Save.
+
+Save Customizations
+
+Groups help you organize your customized reports. This is helpful if you have a lot
+of customized reports that you want QuickBooks to access or email for you on a
+regular basis.
+You can also share this report with other users in your company file, so they can
+see it as well.
+
+Mastering QuickBooks Online Level 1
+
+Page 159
+
+Run My Custom Report
+Click Reports on the navigation bar.
+Click Custom Reports.
+Click the name of the report to run.
+
+Email & Schedule Reports
+Email Once
+QuickBooks lets you schedule reports so you can receive them daily, weekly,
+monthly, or twice a month through email. After saving the report customizations,
+locate the report in Custom Reports window. The report is sent as a PDF attachment.
+
+Email Report
+Run the appropriate report.
+Click the email icon at the top of the report.
+Click the Email button.
+Enter the appropriate information.
+Click Send.
+
+Page 160
+
+Working with Reports - Day 2 : Chapter 17
+
+Email Report
+
+Email on Schedule
+You can set an email schedule for your customized reports and report groups. By
+default, QuickBooks sends the report as a PDF attachment. You can choose to send
+the report as an Excel file.
+
+Set Report Email Schedule
+Click Reports on the navigation bar.
+Select Custom Reports.
+Click Edit next to the appropriate report or report group.
+Click the Set email schedule option.
+Make the appropriate selections.
+Click Save and close.
+(Optional) Select Attach the report as an Excel file.
+Click Save.
+
+Mastering QuickBooks Level 1
+
+Page 161
+
+Edit Memorized Report/Report Group
+
+Custom Reports-Email Scheduled
+
+Page 162
+
+Working with Reports - Day 2: Chapter 17
+
+Chapter 18
+
+Accounting
+Tasks
+
+Mastering QuickBooks Online Level 1
+
+Page 163
+
+Accounting Tasks
+You learn about a variety of important topics in this chapter such as account numbers,
+how to create a closing date for your books post-reconciliation or year-end, as well as
+how to add and manage users that you can add to your QuickBooks online account.
+
+Account Numbers
+Account numbers make it easy for you to standardize your Chart of Accounts. After
+you enable account numbers, you must enter an account number for each account.
+Ask your accountant for assistance in assigning the appropriate account numbers.
+When entering transactions, you can enter the account name or the account number.
+
+Enable Account Numbers
+Click the Gear menu and select Account and Settings.
+Click Advanced on the list to the left.
+Click in the Chart of accounts section.
+Click the box next to Enable account numbers.
+Click Save.
+
+Assign Account Numbers
+Click the Gear menu and select Chart of Accounts.
+Click the edit icon.
+Enter the appropriate account numbers in the Number column.
+Click Save.
+
+Page 164
+
+Accounting Tasks - Day 2: Chapter 18
+
+What is a Closing Date?
+The Closing Date in QuickBooks essentially “locks” all of your transactions with a
+specific date or any date before that chosen date. That makes it harder to change the
+protected transactions. It also restricts the entry of new transactions with that date or
+any date before it. To make any changes to the accounting period, a user must know
+the closing date password (if you have set one).
+
+Set Closing Date and Password
+Click the Gear menu and select Account and Settings.
+Click Advanced on the list to the left.
+Click in the Accounting section.
+Click the box next to Close the books.
+Enter the Closing date.
+Click the drop-down arrow and select the appropriate option.
+(Optional) Enter the password in the Password and Confirm Password fields.
+Click Save.
+
+Mastering QuickBooks Online Level 1
+
+Page 165
+
+Manage Users
+There are five types of users you can add in QuickBooks.
+User Type
+
+Description
+
+Standard user
+
+You specify the areas of QuickBooks this user can access: All, Accounts
+Receivable only, or Accounts Payable only.
+
+Company admin
+
+Can access all areas of QuickBooks, including other subscription
+services.
+
+Reports only
+
+Logs in to a special version of QuickBooks that shows reports only. Can
+access all reports except payroll reports, and reports listing contact
+information for customers, vendors, or employees. Does not count
+toward total user limit. (QuickBooks Online Plus and Advanced only)
+
+Time tracking only
+
+Logs in to a special version of QuickBooks that only allows them to fill
+out or edit their own time sheets. Does not count toward total user
+limit. (QuickBooks Online Plus and Advanced only)
+
+Accountant
+
+An accountant user gets special access to QuickBooks Online
+Accountant, which has special tools they can use to work with your
+data. You can only have two Accountant users.
+
+Page 166
+
+Accounting Tasks - Day 2: Chapter 18
+
+Add Standard User
+Click the Gear menu and select Manage Users.
+Click the Add user button.
+Select the appropriate User Type, and click Next.
+Select the appropriate access rights, and click Next .
+Select the appropriate user settings, and click Next .
+Enter the new user’s name and email address.
+Click Save.
+
+Add Accountant User
+Click the Gear menu and select Manage Users.
+Click the Accountants tab.
+Enter your accountant’s email address, and click Invite.
+
+Mastering QuickBooks Online Level 1
+
+Page 167
+
+Audit Log
+The Audit Log allows you and your accountant to see almost every activity in
+QuickBooks, including when users log in and log out, when transactions are entered,
+changed, or edited, and any list activity such as adding or editing list entries.
+
+Run Audit Log
+Click the Gear menu and select Audit Log.
+(Optional) Click the Filter drop-down arrow to select the appropriate filters.
+Click View to open any activity on the Audit Log.
+
+Page 168
+
+Accounting Tasks - Day 2: Chapter 18
+
+Chapter 19
+
+Payroll Setup
+
+Page 169
+
+Payroll Setup
+Before you get too far with Payroll setup, there are a few things you should collect to
+have in front of you during the setup process. This way you can complete your Payroll
+setup in one session instead of starting and stopping multiple times just to go find the
+needed paperwork.
+• Federal and state IDs
+• Unemployment Insurance Rate
+• W4s
+• Year-to-date Payroll
+• Banking and Routing numbers
+
+Enable Payroll
+Before you can use Payroll in QuickBooks, you must turn it on.
+Click Workers on the navigation bar.
+Select Employees.
+Click Get started.
+Select your payroll plan.
+
+Page 170
+
+Payroll Setup – Day 2: Chapter 19
+
+Start Payroll Setup
+The most important part of using payroll in QuickBooks is the setup. QuickBooks
+makes it easy to set up your employees, payment schedules, and taxes.
+
+Mastering QuickBooks Online Level 1
+
+Page 171
+
+Setup Payroll
+Click Workers on the navigation bar.
+Click Employees.
+Click Get started.
+Select whether you have paid any W-2 employees in the current year.
+Click Next.
+Enter the next date when you will run payroll.
+Click Done.
+Enter your business location details.
+Click Done.
+Select Let’s Go to add your first employee.
+Select Add an Employee
+Enter the employees Personal Info
+Click Enter W-4 form, fill in requested information, and click Done.
+Click Create pay schedule, fill in requested information, and click Done.
+Click Add additional pay types to add other payroll types, make appropriate
+selections and fill in requested information, and click Done.
+Click Add deductions to set up deductions on step 5, make appropriate selections
+and fill in requested information, and click OK.
+Select the desired method for paying this employee, make appropriate selections
+and fill in requested information.
+Enter required employees’ birthday and hire date in step 7.
+Enter prior pay details (if any) for the employee, to let QuickBooks know how
+much you’ve paid this employee so far this year, and click Done.
+Complete Steps 10-18 above for each employee until done, then click Continue.
+
+Page 172
+
+Payroll Setup: Day 2– Chapter 19
+
+Enter Company Information
+For tax purposes, QuickBooks needs to know about any prior payroll runs made to
+your employees during the current year. Note that you can only set this up during the
+setup step.
+
+Mastering QuickBooks Online Level 1
+
+Page 173
+
+Provide the principal business address to QuickBooks.
+
+Enter in the contact details for your company’s payroll contact.
+
+Page 174
+
+Payroll Setup: Day 2– Chapter 19
+
+Add an Employee
+Click Workers on the navigation bar.
+Click Employees.
+Click Add an Employee.
+Complete the forms and pages with appropriate information until done.
+Click Done.
+
+Employee Personal Information
+If you would like your employees to view their paystubs and W-2s through Intuit
+Workforce online, be sure to select the checkbox. You may also have the option to
+allow your employee to track and record their hours in “TSheets Online” from this
+screen.
+
+Mastering QuickBooks Online Level 1
+
+Page 175
+
+Employee W-4 Information
+Select + Enter W-4 form.
+Enter W-4 withholdings.
+Click Done
+
+Page 176
+
+Payroll Setup: Day 2– Chapter 19
+
+Employee Payroll Schedules
+
+Adding Additional Pay Types per Employee
+
+Mastering QuickBooks Online Level 1
+
+Page 177
+
+Deductions
+
+Deductions / Contributions and Garnishments
+
+How to Pay Your Employee
+
+Page 178
+
+Payroll Setup: Day 2– Chapter 19
+
+Enter Prior Payroll Details
+Before completing your payroll setup for each employee, QuickBooks will ask you to
+provide details about any prior payroll payments that have been made for this
+employee during the year. This step is crucial, because without the data in these
+fields, you will not be able to create a proper W2 next year that includes all of the
+employees pay for the year.
+It’s also important that you enter this information now during the payroll setup steps,
+because there is no way to backtrack and get back to this screen. This information has
+to be entered now, or you will not be able to enter it without contacting QuickBooks
+Payroll Support.
+
+Payroll Employee Setup Complete
+
+Mastering QuickBooks Online Level 1
+
+Page 179
+
+Set Up Payroll Taxes
+When you’re ready to set up your payroll taxes, you need to gather any state and
+federal tax notices, and your employee’s W-4 forms. If you have any questions during
+this process, ask your accountant for assistance.
+
+Set Up Taxes
+Click Taxes on the navigation bar.
+Click Payroll Tax.
+Click Finish payroll setup.
+Click Let’s Go on step 4, Fill in your tax info.
+Enter appropriate Business Details, and click Continue.
+Enter your Federal tax details and click Continue.
+Enter your State tax details and click Done.
+
+Payroll Taxes Setup- Business Details
+
+Page 180
+
+Payroll Setup: Day 2– Chapter 19
+
+Payroll Taxes Setup – Federal Taxes
+
+Payroll Taxes Setup – State Taxes
+
+Page 181
+
+Payroll Setup: Day 2 – Chapter 19
+
+Connecting your Bank
+Now that you’ve completed your Payroll setup, it’s time to connect your bank.
+Because all QuickBooks Online Payroll options now automate the payment of taxes,
+every Payroll subscription needs to have an active Bank connection. Additionally, if
+you want to utilize Direct Deposit, you’ll need your bank account for that, too.
+
+Direct Deposit Setup
+
+Page 182
+
+Payroll Setup: Day 2– Chapter 19
+
+Bank Connection
+
+You are now ready to pay your employees by running payroll.
+
+Mastering QuickBooks Online Level 1
+
+Page 183
+
+Add Employees After Setup
+After setting up payroll, you can add additional employees using the steps below.
+Make sure you have their completed W-4 forms on file.
+Click Workers on the navigation bar.
+Select Employees.
+Click Add an employee.
+
+Page 184
+
+Payroll Setup: Day 2– Chapter 19
+
+Chapter 20
+
+Payroll Cycle
+
+Page 185
+
+Payroll Setup
+QuickBooks Online Payroll automates much of your payroll, but you’ll still have to
+track your employees time, run payroll, print paychecks, and send direct deposits. In
+this chapter you’ll track your employees time, enter it into a payroll run and generate
+paychecks. QuickBooks Online figures out the taxes and other liabilities for you and
+helps you print, write or direct deposit paychecks for your employees. QuickBooks
+also creates your tax forms digitally and sends them to the government along with
+your payments. You are responsible for manually paying any non-tax liabilities.
+
+Pay Employees
+Click Workers on the navigation bar.
+Click Run payroll.
+Enter hours for each hourly employee.
+Click Preview payroll.
+Review the payroll amounts for each employee.
+Click Submit payroll.
+Enter remaining information and click Finish Payroll.
+
+Run Payroll
+
+Mastering QuickBooks Online Level 1
+
+Page 186
+
+Enter Employee Pay Details
+
+Submit Payroll
+
+Mastering QuickBooks Online Level 1
+
+Page 187
+
+Finish Payroll
+
+Employee Paystub
+
+View Taxes and Payments
+Intuit takes money out of your real bank account and sends it to the government for
+you. As well, all your payroll tax forms are automatically filled out and set on time.
+Click Taxes on the navigation bar.
+Click Payroll Tax.
+Here you can see when the next tax payment will be made, how much will be paid
+and a list of your past payments.
+
+Page 188
+
+Payroll Cycle: Day 2– Chapter 20
+
+Payroll Tax Center
+
+Mastering QuickBooks Online Level 1
+
+Page 189
+
+View Your Tax Liability Report
+Click Reports on the Navigation Bar.
+Click Payroll Tax Liability under Payroll to run the report.
+Select the desired Date Range.
+Click Run Report.
+
+Page 190
+
+Payroll Cycle: Day 2– Chapter 20
+
+Pay Non-Tax Liabilities
+Before you pay your payroll deductions and contributions, review the Payroll
+Deductions/Contributions report. This will show you the breakdown of employee
+deductions and company contributions for each payroll item.
+
+Chart of Accounts-Payroll Liabilities
+QuickBooks Online displays accounts for both tax and non-tax liabilities. QuickBooks
+sets these accounts up based on the deductions and contributions created in the
+setup process. Balances for these accounts are increased anytime the company
+contributes toward the benefit or anytime money is withheld from an employees’
+paycheck during the payroll process. To make the payment to the provider, you’re
+going to use either an expense, a check or a bill.
+
+Run Payroll Deductions/Contributions Report
+Click Reports on the navigation bar.
+Click Payroll Deductions/Contributions under Payroll to run the report.
+
+Mastering QuickBooks Online Level 1
+
+Page 191
+
+Pay Deductions and Contributions
+Click the New (+) button and select Check.
+Click the Choose a payee drop-down list and select the payee.
+Click the Account drop-down list and select the liability account for the deduction.
+Enter the amount of the payment.
+Click the Save and new drop-down arrow and make the appropriate selection.
+
+Page 192
+
+Payroll Cycle: Day 2– Chapter 20
+
+Chapter 21
+
+Inventory
+
+Page 193
+
+Track Inventory
+If you want to track the quantity on hand for a specific product in QuickBooks, you
+should set it up as an inventory item. For example, a building supply company buys
+doors and doorknobs, and sells them. Those products would be tracked as inventory.
+Inventory tracking is not for tracking products that you manufacture. For example, a
+bakery that buys flour and sugar, and produces cakes and cookies would not track
+inventory for those products.
+
+Enable Inventory
+Click the Gear menu and select Account and Settings.
+Click Sales on the list to the left.
+Click in the Products and services section.
+Click the box next to Track inventory quantity on hand.
+Click Save.
+
+Page 194
+
+Mastering QuickBooks Online Level 1
+
+Add Inventory Item
+Click the Gear menu and select Products and Services.
+Click the New button.
+Select Inventory Item as the Type.
+Enter the appropriate information for the inventory item.
+Click Save and close.
+
+Inventory- Day 2: Chapter 21
+
+Page 195
+
+Purchase Orders
+Use Purchase Orders to order inventory from your vendors. Purchase Orders are nonposting entries. This means they don’t affect any accounts when they are entered.
+When you receive items from the purchase order, your accounts and quantities on
+hand will be updated.
+
+Create Purchase Order
+Click the New (+) button and select Purchase Order.
+Click the Choose a vendor drop-down arrow and select the vendor.
+Enter the appropriate information in the Item details area of the Purchase Order.
+Click the Save and send drop-down arrow and make the appropriate selection.
+
+Review Open Purchase Order List
+Click Reports on the navigation bar.
+Select Open Purchase Order List under Expenses and Vendors.
+
+Page 196
+
+Mastering QuickBooks Online Level 1
+
+Receive Items
+When it’s time to receive the inventory into QuickBooks, you can use a Bill, Check, or
+Expense form. Use the form that works best for your business.
+Click the New (+) menu and select the appropriate form.
+Click the Choose a vendor drop-down arrow and select the vendor.
+Click the Add button to the right for the products received.
+Change any information necessary on the form.
+Click the Save and new drop-down arrow and make the appropriate selection.
+
+Inventory- Day 2: Chapter 21
+
+Page 197
+
+Inventory Reports
+Inventory Valuation Summary
+Click Reports on the navigation bar.
+Select Inventory Valuation Summary under Sales and Customers.
+
+Inventory Valuation Detail
+Click Reports on the navigation bar.
+Select Inventory Valuation Detail under Sales and Customers.
+
+Page 198
+
+Mastering QuickBooks Online Level 1
+
+Adjust Inventory
+For a business with inventory, the quantity on-hand is critical information. When you
+receive inventory, you add to the on-hand quantity. Selling to a customer reduces the
+quantity. If the actual quantity you have on hand differs from the quantity in
+QuickBooks, you need to adjust the inventory.
+Click Sales from the Navigation Menu
+Select Products and Services.
+Select the item to adjust and click the Edit button.
+Select Quantity on the Quantity on Hand.
+
+Enter the New Qty.
+Click Save and close.
+
+Inventory- Day 2: Chapter 21
+
+Page 199
+
+Notes
+
+Notes
+
+
