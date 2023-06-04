@@ -5,13 +5,13 @@ nlp = pipeline("question-answering")
 
 # Read the questions from the file
 questions_file = "questions.txt"  # Path to the file containing the questions
-with open(questions_file, "r") as file:
+with open(questions_file, "r", encoding='utf-8') as file:
     questions = file.readlines()
 questions = [q.strip() for q in questions]
 
 # Load the context text
 context_file = "pairs.txt"  # Path to the file containing the context
-with open(context_file, "r") as file:
+with open(context_file, "r", encoding='utf-8') as file:
     context = file.read()
 
 # Answer the questions

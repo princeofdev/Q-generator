@@ -42,7 +42,7 @@ class QuestionGenerator:
         file_path = os.path.join(root_directory, 'ingest.txt')  # Path to the "ingest.txt" file
         
         # Read the content of the file
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
         
         # Generate questions using the content and question_count parameter
@@ -84,7 +84,7 @@ class QuestionGenerator:
         file_output_path = os.path.join(root_directory, 'questions.txt')  # Path to the output file
 
         questions = [item["question"] for item in qa_list]
-        with open(file_output_path, 'w') as file:
+        with open(file_output_path, 'w', encoding='utf-8', errors='replace') as file:
             for question in questions:
                 file.write(question + '\n')
 
@@ -92,7 +92,7 @@ class QuestionGenerator:
 
         pair_file_output_path = os.path.join(root_directory, 'pairs.txt')  # Path to the output file
 
-        with open(pair_file_output_path, 'w') as file:
+        with open(pair_file_output_path, 'w', encoding='utf-8', errors='replace') as file:
             for item in qa_list:
                 question = item["question"]
                 answer = item["answer"]
