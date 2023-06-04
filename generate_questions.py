@@ -25,6 +25,7 @@ class QuestionGenerator:
         self.device = torch.device(
             "cuda" if torch.cuda.is_available() else "cpu")
 
+        # use_fast=True
         self.qg_tokenizer = AutoTokenizer.from_pretrained(
             QG_PRETRAINED, use_fast=True)
         self.qg_model = AutoModelForSeq2SeqLM.from_pretrained(QG_PRETRAINED)
