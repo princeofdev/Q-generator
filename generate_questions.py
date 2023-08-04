@@ -22,8 +22,11 @@ class QuestionGenerator:
         self.CONTEXT_TOKEN = "<context>"
         self.SEQ_LENGTH = 512
 
+        print("CUDA available:", torch.cuda.is_available())
+
         self.device = torch.device(
             "cuda" if torch.cuda.is_available() else "cpu")
+        print(self.device)
 
         # use_fast=True
         self.qg_tokenizer = AutoTokenizer.from_pretrained(
