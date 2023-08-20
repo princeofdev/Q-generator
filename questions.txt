@@ -1,10 +1,20 @@
-What did the owl tell Bongo?
-What did the monkeys think of the bananas?
-What happened to Bongo and the other monkeys?
-What did Bongo do?
-What did Bongo do?
-What was his favorite food?
-What did Bongo do to get one?
-What was the story of Bongo's life?
-What was the end of the story?
-What did Bongo do?
+What is the best way to view and print subsets of assets?
+What are the commands that you can use to set the groupings and accounts for a number of assets at once?
+What is the best way to move from the Asset Detail section to the Basis Detail section?
+What should you do to back up the client file before proceeding?
+What is the best way to map a CSV file to a fixed asset manager field?
+What is the name of the section titled “Defining column sets for the Schedule folder”?
+What are the fields that are allocated using the percentages you specify?
+What is the definition of a property that is not a property qualified for the Special Depreciation Allowance?
+What is the best way to organize and sort assets by vendor?
+What is the maximum annual business cost you can deduct under Section 179?
+What is the best way to preview a tax worksheet?
+What is the best way to enter the recovery period for an asset?
+What is the most complicated example of a type of asset field?
+How do you lock the total line?
+What is the content tab in QuickBooks Fixed Asset Manager?
+How can you resize columns of information that are too narrow?
+What is the most common way to dispose of an asset?
+What is the most common way to add or edit notes for a fixed asset?
+What is the definition of the federal method for depreciating MACRS assets?
+How many letters and numbers can you use to describe the asset sale?

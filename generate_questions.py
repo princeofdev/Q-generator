@@ -26,7 +26,6 @@ class QuestionGenerator:
 
         self.device = torch.device(
             "cuda" if torch.cuda.is_available() else "cpu")
-        print(self.device)
 
         # use_fast=True
         self.qg_tokenizer = AutoTokenizer.from_pretrained(
@@ -80,11 +79,6 @@ class QuestionGenerator:
 
         print("Progress...\n")
 
-        # else:
-        #     print("Skipping evaluation step.\n")
-        #     qa_list = self._get_all_qa_pairs(generated_questions, qg_answers)
-
-        # Save the questions to the file
         file_output_path = os.path.join(root_directory, 'questions.txt')  # Path to the output file
 
         questions = [item["question"] for item in qa_list]
@@ -94,26 +88,7 @@ class QuestionGenerator:
 
         print("Completed.\n")
 
-        pair_file_output_path = os.path.join(root_directory, 'pairs.txt')  # Path to the output file
-
-        with open(pair_file_output_path, 'w', encoding='utf-8', errors='replace') as file:
-            for item in qa_list:
-                question = item["question"]
-                answer = item["answer"]
-                file.write(f"{question}\n{answer}\n\n")
-
-        print("Pair file created.\n")
-
     def generate_qg_inputs(self, text: str, answer_style: str) -> Tuple[List[str], List[str]]:
-
-        # VALID_ANSWER_STYLES = ["all", "sentences", "multiple_choice"]
-
-        # if answer_style not in VALID_ANSWER_STYLES:
-        #     raise ValueError(
-        #         "Invalid answer style {}. Please choose from {}".format(
-        #             answer_style, VALID_ANSWER_STYLES
-        #         )
-        #     )
 
         inputs = []
         answers = []
@@ -128,14 +103,6 @@ class QuestionGenerator:
                 )
                 inputs.extend(prepped_inputs)
                 answers.extend(prepped_answers)
-
-        # if answer_style == "multiple_choice" or answer_style == "all":
-        #     sentences = self._split_text(text)
-        #     prepped_inputs, prepped_answers = self._prepare_qg_inputs_MC(
-        #         sentences
-        #     )
-        #     inputs.extend(prepped_inputs)
-        #     answers.extend(prepped_answers)
 
         print("Returning inputs and answers...\n")
 
@@ -202,68 +169,6 @@ class QuestionGenerator:
             answers.append(sentence)
 
         return inputs, answers
-
-    def _prepare_qg_inputs_MC(self, sentences: List[str]) -> Tuple[List[str], List[str]]:
-
-        spacy_nlp = en_core_web_sm.load()
-        docs = list(spacy_nlp.pipe(sentences, disable=["parser"]))
-        inputs_from_text = []
-        answers_from_text = []
-
-        for doc, sentence in zip(docs, sentences):
-            entities = doc.ents
-            if entities:
-
-                for entity in entities:
-                    qg_input = f"{self.ANSWER_TOKEN} {entity} {self.CONTEXT_TOKEN} {sentence}"
-                    answers = self._get_MC_answers(entity, docs)
-                    inputs_from_text.append(qg_input)
-                    answers_from_text.append(answers)
-
-        return inputs_from_text, answers_from_text
-
-    def _get_MC_answers(self, correct_answer: Any, docs: Any) -> List[Mapping[str, Any]]:
-
-        entities = []
-
-        for doc in docs:
-            entities.extend([{"text": e.text, "label_": e.label_}
-                            for e in doc.ents])
-
-        # remove duplicate elements
-        entities_json = [json.dumps(kv) for kv in entities]
-        pool = set(entities_json)
-        num_choices = (
-            min(4, len(pool)) - 1
-        )  # -1 because we already have the correct answer
-
-        # add the correct answer
-        final_choices = []
-        correct_label = correct_answer.label_
-        final_choices.append({"answer": correct_answer.text, "correct": True})
-        pool.remove(
-            json.dumps({"text": correct_answer.text,
-                       "label_": correct_answer.label_})
-        )
-
-        # find answers with the same NER label
-        matches = [e for e in pool if correct_label in e]
-
-        # if we don't have enough then add some other random answers
-        if len(matches) < num_choices:
-            choices = matches
-            pool = pool.difference(set(choices))
-            choices.extend(random.sample(pool, num_choices - len(choices)))
-        else:
-            choices = random.sample(matches, num_choices)
-
-        choices = [json.loads(s) for s in choices]
-
-        for choice in choices:
-            final_choices.append({"answer": choice["text"], "correct": False})
-
-        random.shuffle(final_choices)
-        return final_choices
 
     @torch.no_grad()
     def _generate_question(self, qg_input: str) -> str:
